@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Outside Lands 2026//My Schedule Genres//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Outside Lands 2026 (Genres)
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ol26g-001@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T120000
+DTEND;TZID=America/Los_Angeles:20260807T125500
+SUMMARY:Vertigo (House)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Vertigo (House) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-002@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T120500
+DTEND;TZID=America/Los_Angeles:20260807T125000
+SUMMARY:Faouzia (Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Faouzia (Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-003@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T123500
+DTEND;TZID=America/Los_Angeles:20260807T132000
+SUMMARY:NEZZA (Latin Pop)
+LOCATION:Twin Peaks\, Golden Gate Park\, San Francisco
+DESCRIPTION:NEZZA (Latin Pop) @ Twin Peaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-004@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T140500
+DTEND;TZID=America/Los_Angeles:20260807T143500
+SUMMARY:NEZZA (Latin Pop)
+LOCATION:Duboce Triangle\, Golden Gate Park\, San Francisco
+DESCRIPTION:NEZZA (Latin Pop) @ Duboce Triangle
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-005@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T143000
+DTEND;TZID=America/Los_Angeles:20260807T152000
+SUMMARY:DJ Starr Noir (Darkwave DJ)
+LOCATION:Dolores’ x Hot Goth GF\, Golden Gate Park\, San Francisco
+DESCRIPTION:DJ Starr Noir (Darkwave DJ) @ Dolores’ x Hot Goth GF
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-006@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T143500
+DTEND;TZID=America/Los_Angeles:20260807T152500
+SUMMARY:Durand Bernarr (R&B)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Durand Bernarr (R&B) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-007@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T145500
+DTEND;TZID=America/Los_Angeles:20260807T154000
+SUMMARY:The Story So Far (Pop Punk)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:The Story So Far (Pop Punk) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-008@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T155500
+DTEND;TZID=America/Los_Angeles:20260807T164500
+SUMMARY:Wet Leg (Indie Rock)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Wet Leg (Indie Rock) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-009@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T162500
+DTEND;TZID=America/Los_Angeles:20260807T170500
+SUMMARY:Billie Marten (Indie Folk)
+LOCATION:Panhandle\, Golden Gate Park\, San Francisco
+DESCRIPTION:Billie Marten (Indie Folk) @ Panhandle
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-010@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T170500
+DTEND;TZID=America/Los_Angeles:20260807T180500
+SUMMARY:Bootie Mashup: Diva Pop w/ DJ Tyme (Pop Mashup)
+LOCATION:Cocktail Magic\, Golden Gate Park\, San Francisco
+DESCRIPTION:Bootie Mashup: Diva Pop w/ DJ Tyme (Pop Mashup) @ Cocktail Magic
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-011@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T175000
+DTEND;TZID=America/Los_Angeles:20260807T185000
+SUMMARY:Geese (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Geese (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-012@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T182000
+DTEND;TZID=America/Los_Angeles:20260807T192000
+SUMMARY:The Emo Night Tour (Emo)
+LOCATION:Cocktail Magic\, Golden Gate Park\, San Francisco
+DESCRIPTION:The Emo Night Tour (Emo) @ Cocktail Magic
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-013@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T184500
+DTEND;TZID=America/Los_Angeles:20260807T193000
+SUMMARY:Light Asylum (Darkwave)
+LOCATION:Dolores’ x Hot Goth GF\, Golden Gate Park\, San Francisco
+DESCRIPTION:Light Asylum (Darkwave) @ Dolores’ x Hot Goth GF
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-014@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T204000
+DTEND;TZID=America/Los_Angeles:20260807T220000
+SUMMARY:Charli xcx (Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Charli xcx (Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-015@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260807T205000
+DTEND;TZID=America/Los_Angeles:20260807T215000
+SUMMARY:Modest Mouse (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Modest Mouse (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-016@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T132500
+DTEND;TZID=America/Los_Angeles:20260808T141000
+SUMMARY:Haute & Freddy (Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Haute & Freddy (Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-017@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T135000
+DTEND;TZID=America/Los_Angeles:20260808T143500
+SUMMARY:Wunderhorse (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Wunderhorse (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-018@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T135500
+DTEND;TZID=America/Los_Angeles:20260808T143500
+SUMMARY:After (Shoegaze)
+LOCATION:Twin Peaks\, Golden Gate Park\, San Francisco
+DESCRIPTION:After (Shoegaze) @ Twin Peaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-019@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T144000
+DTEND;TZID=America/Los_Angeles:20260808T153000
+SUMMARY:Audrey Hobert (Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Audrey Hobert (Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-020@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T150500
+DTEND;TZID=America/Los_Angeles:20260808T155000
+SUMMARY:Sienna Spiro (Indie Pop)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Sienna Spiro (Indie Pop) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-021@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T151000
+DTEND;TZID=America/Los_Angeles:20260808T160000
+SUMMARY:Łaszewo (Electronic)
+LOCATION:Twin Peaks\, Golden Gate Park\, San Francisco
+DESCRIPTION:Łaszewo (Electronic) @ Twin Peaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-022@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T160000
+DTEND;TZID=America/Los_Angeles:20260808T165000
+SUMMARY:Lucy Dacus (Indie Rock)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Lucy Dacus (Indie Rock) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-023@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T162000
+DTEND;TZID=America/Los_Angeles:20260808T170500
+SUMMARY:Yard Act (Post-Punk)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Yard Act (Post-Punk) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-024@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T164500
+DTEND;TZID=America/Los_Angeles:20260808T174500
+SUMMARY:Malcolm Todd (R&B)
+LOCATION:Twin Peaks\, Golden Gate Park\, San Francisco
+DESCRIPTION:Malcolm Todd (R&B) @ Twin Peaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-025@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T165500
+DTEND;TZID=America/Los_Angeles:20260808T182500
+SUMMARY:Sultan + Shepard (Melodic House)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Sultan + Shepard (Melodic House) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-026@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T170500
+DTEND;TZID=America/Los_Angeles:20260808T180500
+SUMMARY:Bootie Mashup: Hip Hop Fuego w/ DJ Airsun (Hip-Hop Mashup)
+LOCATION:Cocktail Magic\, Golden Gate Park\, San Francisco
+DESCRIPTION:Bootie Mashup: Hip Hop Fuego w/ DJ Airsun (Hip-Hop Mashup) @ Cocktail Magic
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-027@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T182000
+DTEND;TZID=America/Los_Angeles:20260808T185000
+SUMMARY:Łaszewo (Electronic)
+LOCATION:Duboce Triangle\, Golden Gate Park\, San Francisco
+DESCRIPTION:Łaszewo (Electronic) @ Duboce Triangle
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-028@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T184000
+DTEND;TZID=America/Los_Angeles:20260808T201000
+SUMMARY:Ben Böhmer (Melodic House)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Ben Böhmer (Melodic House) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-029@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T185000
+DTEND;TZID=America/Los_Angeles:20260808T195000
+SUMMARY:Djo (Indie Rock)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Djo (Indie Rock) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-030@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T201000
+DTEND;TZID=America/Los_Angeles:20260808T212500
+SUMMARY:The xx (Indie Pop)
+LOCATION:Twin Peaks\, Golden Gate Park\, San Francisco
+DESCRIPTION:The xx (Indie Pop) @ Twin Peaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-031@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T202500
+DTEND;TZID=America/Los_Angeles:20260808T215500
+SUMMARY:Lane 8 (Deep House)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Lane 8 (Deep House) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-032@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T203500
+DTEND;TZID=America/Los_Angeles:20260808T215500
+SUMMARY:The Strokes (Indie Rock)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:The Strokes (Indie Rock) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-033@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260808T204500
+DTEND;TZID=America/Los_Angeles:20260808T214500
+SUMMARY:PinkPantheress (Pop)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:PinkPantheress (Pop) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-034@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T124000
+DTEND;TZID=America/Los_Angeles:20260809T133000
+SUMMARY:Death Cab for Cutie (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Death Cab for Cutie (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-035@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T142500
+DTEND;TZID=America/Los_Angeles:20260809T151500
+SUMMARY:Balu Brigada (Indie Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Balu Brigada (Indie Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-036@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T150000
+DTEND;TZID=America/Los_Angeles:20260809T154500
+SUMMARY:Momma (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Momma (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-037@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T163000
+DTEND;TZID=America/Los_Angeles:20260809T171000
+SUMMARY:Night Tapes (Dream Pop)
+LOCATION:Panhandle\, Golden Gate Park\, San Francisco
+DESCRIPTION:Night Tapes (Dream Pop) @ Panhandle
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-038@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T164500
+DTEND;TZID=America/Los_Angeles:20260809T182000
+SUMMARY:Boys Noize (Electro)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Boys Noize (Electro) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-039@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T173500
+DTEND;TZID=America/Los_Angeles:20260809T182500
+SUMMARY:The Temper Trap (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:The Temper Trap (Indie Rock) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-040@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T182000
+DTEND;TZID=America/Los_Angeles:20260809T195500
+SUMMARY:Miss Monique (Progressive House)
+LOCATION:SOMA\, Golden Gate Park\, San Francisco
+DESCRIPTION:Miss Monique (Progressive House) @ SOMA
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-041@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T184500
+DTEND;TZID=America/Los_Angeles:20260809T194500
+SUMMARY:Empire Of The Sun (Indie Pop)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:Empire Of The Sun (Indie Pop) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-042@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T190500
+DTEND;TZID=America/Los_Angeles:20260809T195500
+SUMMARY:Not for Radio (Psychedelic Pop)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Not for Radio (Psychedelic Pop) @ Sutro
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-043@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T202500
+DTEND;TZID=America/Los_Angeles:20260809T215500
+SUMMARY:RÜFÜS DU SOL (Electronic)
+LOCATION:Lands End\, Golden Gate Park\, San Francisco
+DESCRIPTION:RÜFÜS DU SOL (Electronic) @ Lands End
+END:VEVENT
+BEGIN:VEVENT
+UID:ol26g-044@outside-lands
+DTSTAMP:20260803T221326Z
+DTSTART;TZID=America/Los_Angeles:20260809T202500
+DTEND;TZID=America/Los_Angeles:20260809T214000
+SUMMARY:Death Cab for Cutie (Indie Rock)
+LOCATION:Sutro\, Golden Gate Park\, San Francisco
+DESCRIPTION:Death Cab for Cutie (Indie Rock) @ Sutro
+END:VEVENT
+END:VCALENDAR

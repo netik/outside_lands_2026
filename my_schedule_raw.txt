@@ -1,0 +1,179 @@
+BAND
+LOCATION (STAGE)
+DATE (DAY)
+TIME (START - END)
+Vertigo
+SOMA
+Friday, Aug 7
+12:00 PM - 12:55 PM
+Faouzia
+Lands End
+Friday, Aug 7
+12:05 PM - 12:50 PM
+NEZZA
+Twin Peaks
+Friday, Aug 7
+12:35 PM - 1:20 PM
+NEZZA
+Duboce Triangle
+Friday, Aug 7
+2:05 PM - 2:35 PM
+DJ Starr Noir
+Dolores’ x Hot Goth GF
+Friday, Aug 7
+2:30 PM - 3:20 PM
+Durand Bernarr
+Lands End
+Friday, Aug 7
+2:35 PM - 3:25 PM
+The Story So Far
+Sutro
+Friday, Aug 7
+2:55 PM - 3:40 PM
+Wet Leg
+Lands End
+Friday, Aug 7
+3:55 PM - 4:45 PM
+Billie Marten
+Panhandle
+Friday, Aug 7
+4:25 PM - 5:05 PM
+Bootie Mashup: Diva Pop w/ DJ Tyme
+Cocktail Magic
+Friday, Aug 7
+5:05 PM - 6:05 PM
+Geese
+Sutro
+Friday, Aug 7
+5:50 PM - 6:50 PM
+The Emo Night Tour
+Cocktail Magic
+Friday, Aug 7
+6:20 PM - 7:20 PM
+Light Asylum
+Dolores’ x Hot Goth GF
+Friday, Aug 7
+6:45 PM - 7:30 PM
+Charli xcx
+Lands End
+Friday, Aug 7
+8:40 PM - 10:00 PM
+Modest Mouse
+Sutro
+Friday, Aug 7
+8:50 PM - 9:50 PM
+Haute & Freddy
+Lands End
+Saturday, Aug 8
+1:25 PM - 2:10 PM
+Wunderhorse
+Sutro
+Saturday, Aug 8
+1:50 PM - 2:35 PM
+After
+Twin Peaks
+Saturday, Aug 8
+1:55 PM - 2:35 PM
+Audrey Hobert
+Lands End
+Saturday, Aug 8
+2:40 PM - 3:30 PM
+Sienna Spiro
+Sutro
+Saturday, Aug 8
+3:05 PM - 3:50 PM
+Łaszewo
+Twin Peaks
+Saturday, Aug 8
+3:10 PM - 4:00 PM
+Lucy Dacus
+Lands End
+Saturday, Aug 8
+4:00 PM - 4:50 PM
+Yard Act
+Sutro
+Saturday, Aug 8
+4:20 PM - 5:05 PM
+Malcolm Todd
+Twin Peaks
+Saturday, Aug 8
+4:45 PM - 5:45 PM
+Sultan + Shepard
+SOMA
+Saturday, Aug 8
+4:55 PM - 6:25 PM
+Bootie Mashup: Hip Hop Fuego w/ DJ Airsun
+Cocktail Magic
+Saturday, Aug 8
+5:05 PM - 6:05 PM
+Łaszewo
+Duboce Triangle
+Saturday, Aug 8
+6:20 PM - 6:50 PM
+Ben Böhmer
+SOMA
+Saturday, Aug 8
+6:40 PM - 8:10 PM
+Djo
+Lands End
+Saturday, Aug 8
+6:50 PM - 7:50 PM
+The xx
+Twin Peaks
+Saturday, Aug 8
+8:10 PM - 9:25 PM
+Lane 8
+SOMA
+Saturday, Aug 8
+8:25 PM - 9:55 PM
+The Strokes
+Lands End
+Saturday, Aug 8
+8:35 PM - 9:55 PM
+PinkPantheress
+Sutro
+Saturday, Aug 8
+8:45 PM - 9:45 PM
+Death Cab for Cutie
+Sutro
+Sunday, Aug 9
+12:40 PM - 1:30 PM
+Balu Brigada
+Lands End
+Sunday, Aug 9
+2:25 PM - 3:15 PM
+Momma
+Sutro
+Sunday, Aug 9
+3:00 PM - 3:45 PM
+Night Tapes
+Panhandle
+Sunday, Aug 9
+4:30 PM - 5:10 PM
+Boys Noize
+SOMA
+Sunday, Aug 9
+4:45 PM - 6:20 PM
+The Temper Trap
+Sutro
+Sunday, Aug 9
+5:35 PM - 6:25 PM
+Miss Monique
+SOMA
+Sunday, Aug 9
+6:20 PM - 7:55 PM
+Empire Of The Sun
+Lands End
+Sunday, Aug 9
+6:45 PM - 7:45 PM
+Not for Radio
+Sutro
+Sunday, Aug 9
+7:05 PM - 7:55 PM
+RÜFÜS DU SOL
+Lands End
+Sunday, Aug 9
+8:25 PM - 9:55 PM
+Death Cab for Cutie
+Sutro
+Sunday, Aug 9
