@@ -1,0 +1,294 @@
+{
+  "playlist_name": "Outside Lands 2026 — My Picks",
+  "unique_artists": 41,
+  "with_spotify_url": 36,
+  "artists": [
+    {
+      "name": "Vertigo",
+      "day": "2026-08-07",
+      "stage": "SOMA",
+      "spotify_artist_url": null,
+      "spotify_artist_id": null
+    },
+    {
+      "name": "Faouzia",
+      "day": "2026-08-07",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo",
+      "spotify_artist_id": "5NhgsV7qPWHZqYEMKzbYvo"
+    },
+    {
+      "name": "NEZZA",
+      "day": "2026-08-07",
+      "stage": "Twin Peaks",
+      "spotify_artist_url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz?si=O5sflVVlRBCW3InUHM7IYQ",
+      "spotify_artist_id": "0cRKBhWUTEtR1vmA06kVKz"
+    },
+    {
+      "name": "DJ Starr Noir",
+      "day": "2026-08-07",
+      "stage": "Dolores’ x Hot Goth GF",
+      "spotify_artist_url": null,
+      "spotify_artist_id": null
+    },
+    {
+      "name": "Durand Bernarr",
+      "day": "2026-08-07",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW?si=QeS7JFyERzaIH1xWdUB7tg",
+      "spotify_artist_id": "2d6ggH1oVt4z2zCuY2u5DW"
+    },
+    {
+      "name": "The Story So Far",
+      "day": "2026-08-07",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg?si=mhoBUG2uRX-NCBx-jNnNEQ",
+      "spotify_artist_id": "6meTcQ79DrfkIuSLPZkpBg"
+    },
+    {
+      "name": "Wet Leg",
+      "day": "2026-08-07",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ?si=67N484y1QkujSIpyPO3BTg",
+      "spotify_artist_id": "2TwOrUcYnAlIiKmVQkkoSZ"
+    },
+    {
+      "name": "Billie Marten",
+      "day": "2026-08-07",
+      "stage": "Panhandle",
+      "spotify_artist_url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7?si=GxJ51fzdQ3mNCW30Ym6iyg",
+      "spotify_artist_id": "02YLJJnWC7YQVixkjEBRn7"
+    },
+    {
+      "name": "Bootie Mashup: Diva Pop w/ DJ Tyme",
+      "day": "2026-08-07",
+      "stage": "Cocktail Magic",
+      "spotify_artist_url": null,
+      "spotify_artist_id": null
+    },
+    {
+      "name": "Geese",
+      "day": "2026-08-07",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4?si=CvHSW9UETDuD0W91aUwDgg",
+      "spotify_artist_id": "0WCo84qtCKfbyIf1lqQWB4"
+    },
+    {
+      "name": "The Emo Night Tour",
+      "day": "2026-08-07",
+      "stage": "Cocktail Magic",
+      "spotify_artist_url": null,
+      "spotify_artist_id": null
+    },
+    {
+      "name": "Light Asylum",
+      "day": "2026-08-07",
+      "stage": "Dolores’ x Hot Goth GF",
+      "spotify_artist_url": "https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8?si=fYJ4WLdwTkezcEvW5Jm5JQ",
+      "spotify_artist_id": "2y98d6N81pArQNXYvkupr8"
+    },
+    {
+      "name": "Charli xcx",
+      "day": "2026-08-07",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+      "spotify_artist_id": "25uiPmTg16RbhZWAqwLBy5"
+    },
+    {
+      "name": "Modest Mouse",
+      "day": "2026-08-07",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT",
+      "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT"
+    },
+    {
+      "name": "Haute & Freddy",
+      "day": "2026-08-08",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+      "spotify_artist_id": "66T34XqGkEWbzKWALSBDuR"
+    },
+    {
+      "name": "Wunderhorse",
+      "day": "2026-08-08",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib?si=osQzQ9ZqTcu3RDYO1af11A",
+      "spotify_artist_id": "41pd7r1XBRsvdxY3vHEgib"
+    },
+    {
+      "name": "After",
+      "day": "2026-08-08",
+      "stage": "Twin Peaks",
+      "spotify_artist_url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li?si=SJI8pDb2QHu7PzcC1w-amw",
+      "spotify_artist_id": "7KfMR05zRrWyhQimnYa8li"
+    },
+    {
+      "name": "Audrey Hobert",
+      "day": "2026-08-08",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS?si=lhSfjOeNQvqC3c2JPN0iGQ",
+      "spotify_artist_id": "4N0TAwz9vhnQtjCqS65aKS"
+    },
+    {
+      "name": "Sienna Spiro",
+      "day": "2026-08-08",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v?si=9OoF1lWHSxau9YjUVh6fNQ",
+      "spotify_artist_id": "02gSuSAWEdWa5UOvqzjX6v"
+    },
+    {
+      "name": "Łaszewo",
+      "day": "2026-08-08",
+      "stage": "Twin Peaks",
+      "spotify_artist_url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN?si=xMkUsJ-yQ6SEjLODgkQ2yw&nd=1&dlsi=3ccdd53e537f42eb",
+      "spotify_artist_id": "6jxGLrn1I14RIeRYodOpLN"
+    },
+    {
+      "name": "Lucy Dacus",
+      "day": "2026-08-08",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=wHR1S4cvRMqEbUQzLJ0o_A",
+      "spotify_artist_id": "07D1Bjaof0NFlU32KXiqUP"
+    },
+    {
+      "name": "Yard Act",
+      "day": "2026-08-08",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd?go=1&sp_cid=dee2c1bacbc765fd0f29f1a0e0276531&utm_source=embed_player_p&utm_medium=desktop",
+      "spotify_artist_id": "2h3ooJn8m8X8cL2g1BZ1Rd"
+    },
+    {
+      "name": "Malcolm Todd",
+      "day": "2026-08-08",
+      "stage": "Twin Peaks",
+      "spotify_artist_url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz?si=Pw_pSeibSwK2WcUoje_l3A",
+      "spotify_artist_id": "7eKkW1zo5uzW8kUntiiBvz"
+    },
+    {
+      "name": "Sultan + Shepard",
+      "day": "2026-08-08",
+      "stage": "SOMA",
+      "spotify_artist_url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau",
+      "spotify_artist_id": "14Tg9FvbNismPR1PJHxRau"
+    },
+    {
+      "name": "Bootie Mashup: Hip Hop Fuego w/ DJ Airsun",
+      "day": "2026-08-08",
+      "stage": "Cocktail Magic",
+      "spotify_artist_url": null,
+      "spotify_artist_id": null
+    },
+    {
+      "name": "Ben Böhmer",
+      "day": "2026-08-08",
+      "stage": "SOMA",
+      "spotify_artist_url": "https://open.spotify.com/intl-de/artist/5tDjiBYUsTqzd0RkTZxK7u",
+      "spotify_artist_id": "5tDjiBYUsTqzd0RkTZxK7u"
+    },
+    {
+      "name": "Djo",
+      "day": "2026-08-08",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm?si=EB_nLL3jQaOsbPIGnD5ldw",
+      "spotify_artist_id": "5p9HO3XC5P3BLxJs5Mtrhm"
+    },
+    {
+      "name": "The xx",
+      "day": "2026-08-08",
+      "stage": "Twin Peaks",
+      "spotify_artist_url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy?si=N5b8co_mQgKYLS7Ym-NLnQ",
+      "spotify_artist_id": "3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+      "name": "Lane 8",
+      "day": "2026-08-08",
+      "stage": "SOMA",
+      "spotify_artist_url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+      "spotify_artist_id": "27gtK7m9vYwCyJ04zz0kIb"
+    },
+    {
+      "name": "The Strokes",
+      "day": "2026-08-08",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V?si=LoXB1dXeRlOtt924jYjPbw&nd=1&dlsi=9ddc0896928c43a4",
+      "spotify_artist_id": "0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "name": "PinkPantheress",
+      "day": "2026-08-08",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t?si=rUkjC8nhR5S9z-RAiSjJIw&dl_branch=1&nd=1&dlsi=97fd4dd93ea14431",
+      "spotify_artist_id": "78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
+      "name": "Death Cab for Cutie",
+      "day": "2026-08-09",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
+      "spotify_artist_id": "0YrtvWJMgSdVrk3SfNjTbx"
+    },
+    {
+      "name": "Balu Brigada",
+      "day": "2026-08-09",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2",
+      "spotify_artist_id": "6O9vGMmTwzihULICPCsNf2"
+    },
+    {
+      "name": "Momma",
+      "day": "2026-08-09",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e?si=Xlks-MrsQ-etjk23yXRAJg",
+      "spotify_artist_id": "5Wj0an60VgRckYV9zlDe1e"
+    },
+    {
+      "name": "Night Tapes",
+      "day": "2026-08-09",
+      "stage": "Panhandle",
+      "spotify_artist_url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU?si=uor3sKvaQSe-DaSUt_GeIA",
+      "spotify_artist_id": "5APEQlUaQ5K70LgPqAdTuU"
+    },
+    {
+      "name": "Boys Noize",
+      "day": "2026-08-09",
+      "stage": "SOMA",
+      "spotify_artist_url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv",
+      "spotify_artist_id": "62k5LKMhymqlDNo2DWOvvv"
+    },
+    {
+      "name": "The Temper Trap",
+      "day": "2026-08-09",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq",
+      "spotify_artist_id": "4W48hZAnAHVOC2c8WH8pcq"
+    },
+    {
+      "name": "Miss Monique",
+      "day": "2026-08-09",
+      "stage": "SOMA",
+      "spotify_artist_url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR",
+      "spotify_artist_id": "29TpNOsTNYbLb6Xa10H0PR"
+    },
+    {
+      "name": "Empire Of The Sun",
+      "day": "2026-08-09",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c?si=Ye0vKIiWRlOyHWwZM8B8uA",
+      "spotify_artist_id": "67hb7towEyKvt5Z8Bx306c"
+    },
+    {
+      "name": "Not for Radio",
+      "day": "2026-08-09",
+      "stage": "Sutro",
+      "spotify_artist_url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT?si=qIEzgAG-Sjq3DjQceWQ1CA",
+      "spotify_artist_id": "0oXhGlRUQ8aVTx8eO4MoMT"
+    },
+    {
+      "name": "RÜFÜS DU SOL",
+      "day": "2026-08-09",
+      "stage": "Lands End",
+      "spotify_artist_url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj?si=Zs9019x_RSuhKLFA-Tg8TQ",
+      "spotify_artist_id": "5Pb27ujIyYb33zBqVysBkj"
+    }
+  ]
+}
