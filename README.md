@@ -31,7 +31,7 @@ Exported from [sfoutsidelands.com/schedule](https://www.sfoutsidelands.com/sched
 
 | File | Description |
 |---|---|
-| `festival_analysis.md` | Analysis of the Saturday full-festival JSON |
+| `festival_analysis.md` | Full-festival analysis — all 3 days, genres, stages, headliners |
 
 ## Schedule
 
