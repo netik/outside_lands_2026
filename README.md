@@ -2,18 +2,36 @@
 
 Personal schedule for [Outside Lands](https://sfoutsidelands.com/) 2026 (August 7–9, Golden Gate Park, San Francisco).
 
-Source data: `schedule.json` (exported from the festival app, filtered to starred artists via `artist_picks.json`).
+The schedule table below is built from `schedule.json` (your starred artists). Full-festival data for all three days lives in the `outside_lands_2026_08_*.json` files.
 
 ## Files
 
+### My schedule (44 picks)
+
 | File | Description |
 |---|---|
-| `schedule.json` | Canonical schedule — all picks with bios, images, and links |
-| `artist_picks.json` | Starred artist IDs (+ explicit show unpicks) |
-| `my_schedule.csv` | Flat schedule with ISO datetimes |
+| `schedule.json` | Personal schedule — starred artists with bios, images, and links |
+| `artist_picks.json` | Starred artist IDs from the festival app (+ 2 explicit show unpicks) |
+| `my_schedule.csv` | Flat export with ISO datetimes |
 | `my_schedule.ics` | Calendar import (Apple Calendar, Google Calendar) |
-| `my_schedule_genres.ics` | Calendar with genre tags in event titles |
-| `my_schedule_raw.txt` | Original manual export (superseded by schedule.json) |
+| `my_schedule_genres.ics` | Calendar with genre tags in event titles, e.g. `Charli xcx (Pop)` |
+| `my_schedule_raw.txt` | Original manual export (superseded by `schedule.json`) |
+
+### Full festival schedule (all artists)
+
+Exported from [sfoutsidelands.com/schedule](https://www.sfoutsidelands.com/schedule/) via the Festuff/Dostff embed (`dsfestlands26.dostff.co`).
+
+| File | Day | Shows | Artists |
+|---|---|---|---|
+| `outside_lands_2026_08_07.json` | Friday, Aug 7 | 55 | 49 |
+| `outside_lands_2026_08_08.json` | Saturday, Aug 8 | 51 | 46 |
+| `outside_lands_2026_08_09.json` | Sunday, Aug 9 | 51 | 44 |
+
+### Other
+
+| File | Description |
+|---|---|
+| `festival_analysis.md` | Analysis of the Saturday full-festival JSON |
 
 ## Schedule
 
@@ -78,8 +96,8 @@ Source data: `schedule.json` (exported from the festival app, filtered to starre
 
 ## Notes
 
-- **44 sets** across three days (15 Fri · 18 Sat · 11 Sun)
+- **44 picks** across three days (15 Fri · 18 Sat · 11 Sun); **157 total festival sets** in the day JSON files
 - Times are Pacific (PDT, UTC−7)
-- Artists playing twice: NEZZA (Fri), Łaszewo (Sat), Death Cab for Cutie (Sun)
-- Bios sourced from `schedule.json`; 4 artists have no bio in the export (Charli xcx, Djo, Not for Radio, RÜFÜS DU SOL)
-- Full festival JSON for other days not yet exported — only personal picks are included here
+- Artists playing twice in your schedule: NEZZA (Fri), Łaszewo (Sat), Death Cab for Cutie (Sun)
+- Bios in the table below are from `schedule.json`; 4 artists have no bio in that export (Charli xcx, Djo, Not for Radio, RÜFÜS DU SOL)
+- `schedule.json` is derived from `artist_picks.json`; the `outside_lands_2026_08_*.json` files contain the complete lineup for each day
