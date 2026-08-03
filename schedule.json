@@ -1,0 +1,1820 @@
+{
+    "shows": [
+        {
+            "id": 16578,
+            "festival_id": 157,
+            "name": "Vertigo",
+            "category": "music",
+            "start": "2026-08-07T12:00:00.000-07:00",
+            "end": "2026-08-07T12:55:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Vertigo",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49116/festivalartist-19952-artist_image-35042c9a-8b61-4e85-93cf-8d096a59c548.jpg",
+                    "id": 19952,
+                    "bio": "\u003cp\u003eSan Francisco-based Vertigo captivates crowds with her dissonant and syncopated cuts, creating genre-bending sets that blend moments of intense body movement and emotional introspection. With sets that blur the lines between chaos and control, the Vitamin1000 and HydeFM (SF) resident masterfully weaves glitchy, dub-inspired melodies and percussive bass lines, sculpting psychedelic and texture-heavy soundscapes. As both a community organizer and artist, she extends her vision beyond performance as Programming Director of Vitamin1000's annual festival Vitarave and curating the experimental series FLUXIONS alongside CYBER1A duo partner bad juuju. With appearances on Keep Hush (UK), The Lot Radio (NYC), and Aaja Radio (London), Vertigo continues shape a distinct sonic identity within the global electronic music community.\u003c/p\u003e",
+                    "web_site_url": "https://vitamin1000.com/",
+                    "instagram_url": "https://www.instagram.com/v.ertiig0/",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": "https://soundcloud.com/vertiig0",
+                    "youtube_channel_url": "https://www.youtube.com/@v.ertiig0/playlists",
+                    "spotify_artist_url": null,
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16578,
+                            "start": "2026-08-07T12:00:00.000-07:00",
+                            "end": "2026-08-07T12:55:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Vertigo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16500,
+            "festival_id": 157,
+            "name": "Faouzia",
+            "category": "music",
+            "start": "2026-08-07T12:05:00.000-07:00",
+            "end": "2026-08-07T12:50:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Faouzia",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49056/festivalartist-19955-artist_image-468641b9-4576-4d6f-84e9-9e174929281b.jpg",
+                    "id": 19955,
+                    "bio": "\u003cp\u003eInternationally renowned vocalist, songwriter, and classically trained multi-instrumentalist, Faouzia, is one of pop’s most compelling global forces. Recognized for her evocative storytelling and soaring vocal range, she blends her multilingual roots with a boundary-shattering vision to carve her own path within a cinematic sonic universe of her own design. Faouzia has been spotlighted by Variety and Entertainment Weekly as an ‘Artist to Watch,’ with Variety further declaring her “an international artist in the truest sense.” In 2024, Faouzia captivated millions on China’s hit competition series, Singer, ultimately being one of the finalists, and is now the second most streamed international artist in China behind Taylor Swift.\u003c/p\u003e\n\n\u003cp\u003eAfter introducing herself in 2019 with “Tears of Gold,” Faouzia has captivated audiences with breakout singles like “RIP, Love” — surpassing 150 million global streams and video plays combined — along with fan favorites “Don’t Call Me” and “Plastic Therapy.” Her genre-defying collaborations span from John Legend (“Minefields”) and Kelly Clarkson (“I Dare You”) to David Guetta (“Battle”), Galantis (“I Fly”), Alan Walker (“Last Song”), and most recently Illenium \u0026amp; G.E.M. on “Still Breathing,” further cementing her status as a true crossover artist.\u003c/p\u003e\n\n\u003cp\u003eNow fully independent with her debut album FILM NOIR out now, Faouzia conjures a visual and cinematic world through her intricate and purposeful lyricism as well as her dramatic and melancholic melodies – with her unmistakable vocals taking center stage. The album spans 11 ethereal tracks and includes Faouzia’s first independent single “PORCELAIN,” as well as “PEACE \u0026amp; VIOLENCE” and viral breakout hit “UNETHICAL,” which landed Faouzia on the cover of Spotify’s Pop All Day playlist as well on Pop Rising. FILM NOIR has already garnered over 80M worldwide streams and recently charted on Apple Music’s Top Pop Albums chart.\u003c/p\u003e",
+                    "web_site_url": "https://stem.ffm.to/filmnoir",
+                    "instagram_url": "https://www.instagram.com/faouzia/?hl=en",
+                    "facebook_url": "https://www.facebook.com/faouziaofficial/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+                    "spotify_artist_url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16500,
+                            "start": "2026-08-07T12:05:00.000-07:00",
+                            "end": "2026-08-07T12:50:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Faouzia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16541,
+            "festival_id": 157,
+            "name": "NEZZA",
+            "category": "music",
+            "start": "2026-08-07T12:35:00.000-07:00",
+            "end": "2026-08-07T13:20:00.000-07:00",
+            "stage": "Twin Peaks",
+            "artists": [
+                {
+                    "name": "NEZZA",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49078/festivalartist-19943-artist_image-d7e7a9fa-be14-4be3-80a7-2bc555b0d01b.jpg",
+                    "id": 19943,
+                    "bio": "\u003cp\u003eNEZZA is a Colombian-Dominican singer, songwriter, and force of nature, blending Latin and R\u0026amp;B pop into a sound that refuses to be boxed in. She broke through in Summer 2025 with a viral performance at Los Angeles Dodgers Stadium, instantly commanding the world’s attention. Her courage and artistry are at the heart of La Tierra del Valor(The Home of the Brave), a short documentary directed by Cristina Costantini, selected for competition at the 2026 Sundance Film Festival. With every song, every performance, NEZZA stakes her claim as a bold, unapologetic voice for her community, carving her own path and reshaping the future of pop music.\u003c/p\u003e",
+                    "web_site_url": null,
+                    "instagram_url": "https://www.instagram.com/babynezza/",
+                    "facebook_url": "https://www.facebook.com/nezzamusic",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B005C5PIUU/nezza?marketplaceId=ATVPDKIKX0DER\u0026musicTerritory=US\u0026ref=dm_sh_p1mLYmWTOlZLCKohw3VnrUccQ",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCB5YH4CLWzXvpVh7pqNEQQw",
+                    "spotify_artist_url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz?si=O5sflVVlRBCW3InUHM7IYQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16541,
+                            "start": "2026-08-07T12:35:00.000-07:00",
+                            "end": "2026-08-07T13:20:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "NEZZA"
+                        },
+                        {
+                            "id": 16595,
+                            "start": "2026-08-07T14:05:00.000-07:00",
+                            "end": "2026-08-07T14:35:00.000-07:00",
+                            "stage": "Duboce Triangle",
+                            "name": "NEZZA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16595,
+            "festival_id": 157,
+            "name": "NEZZA",
+            "category": "duboce-triangle",
+            "start": "2026-08-07T14:05:00.000-07:00",
+            "end": "2026-08-07T14:35:00.000-07:00",
+            "stage": "Duboce Triangle",
+            "artists": [
+                {
+                    "name": "NEZZA",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49078/festivalartist-19943-artist_image-d7e7a9fa-be14-4be3-80a7-2bc555b0d01b.jpg",
+                    "id": 19943,
+                    "bio": "\u003cp\u003eNEZZA is a Colombian-Dominican singer, songwriter, and force of nature, blending Latin and R\u0026amp;B pop into a sound that refuses to be boxed in. She broke through in Summer 2025 with a viral performance at Los Angeles Dodgers Stadium, instantly commanding the world’s attention. Her courage and artistry are at the heart of La Tierra del Valor(The Home of the Brave), a short documentary directed by Cristina Costantini, selected for competition at the 2026 Sundance Film Festival. With every song, every performance, NEZZA stakes her claim as a bold, unapologetic voice for her community, carving her own path and reshaping the future of pop music.\u003c/p\u003e",
+                    "web_site_url": null,
+                    "instagram_url": "https://www.instagram.com/babynezza/",
+                    "facebook_url": "https://www.facebook.com/nezzamusic",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B005C5PIUU/nezza?marketplaceId=ATVPDKIKX0DER\u0026musicTerritory=US\u0026ref=dm_sh_p1mLYmWTOlZLCKohw3VnrUccQ",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCB5YH4CLWzXvpVh7pqNEQQw",
+                    "spotify_artist_url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz?si=O5sflVVlRBCW3InUHM7IYQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16541,
+                            "start": "2026-08-07T12:35:00.000-07:00",
+                            "end": "2026-08-07T13:20:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "NEZZA"
+                        },
+                        {
+                            "id": 16595,
+                            "start": "2026-08-07T14:05:00.000-07:00",
+                            "end": "2026-08-07T14:35:00.000-07:00",
+                            "stage": "Duboce Triangle",
+                            "name": "NEZZA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16613,
+            "festival_id": 157,
+            "name": "DJ Starr Noir",
+            "category": "dolores",
+            "start": "2026-08-07T14:30:00.000-07:00",
+            "end": "2026-08-07T15:20:00.000-07:00",
+            "stage": "Dolores’ x Hot Goth GF",
+            "artists": [
+                {
+                    "name": "DJ Starr Noir",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49375/festivalartist-20188-artist_image-bee4418a-57b1-4f1c-b1e7-7978c6e2a8f8.jpg",
+                    "id": 20188,
+                    "bio": "\u003cp\u003eDJ Starr Noir has been a DJ in the Bay Area since 1999, with roots in the New Wave, Goth and Indie communities. She has helped organize large stages and events within festivals such as SF Pride and Folsom St Fair. She continues to hold a deep involvement with some of San Francisco's best independent venues such as DNA Lounge and Cat Club. Her personal passions have a focus on fostering intimate dance parties with a focus on inclusivity and diversity with a love of all music genres - but a particular focus on dark \u0026amp; hard Electronica. \u003c/p\u003e",
+                    "web_site_url": null,
+                    "instagram_url": "https://www.instagram.com/djstarrnoir/",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": null,
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16613,
+                            "start": "2026-08-07T14:30:00.000-07:00",
+                            "end": "2026-08-07T15:20:00.000-07:00",
+                            "stage": "Dolores’ x Hot Goth GF",
+                            "name": "DJ Starr Noir"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16498,
+            "festival_id": 157,
+            "name": "Durand Bernarr",
+            "category": "music",
+            "start": "2026-08-07T14:35:00.000-07:00",
+            "end": "2026-08-07T15:25:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Durand Bernarr",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49120/festivalartist-19957-artist_image-a3c6148c-f51f-46b4-b4bf-ce4725abbca1.jpg",
+                    "id": 19957,
+                    "bio": "\u003cp\u003ePraised for his genre-bending brilliance and theatrical command, Durand Bernarr is a GRAMMY Award–winning singer, songwriter, and creative force whose voice lives somewhere between classic soul tradition and fearless futurism. Often compared to legends like Luther Vandross, Little Richard and Rahsaan Patterson, his artistry is defined by vocal mastery, sharp humor and intuitive precision. During his ascent into this defining era, Durand was coined Rolling Stone’s “Artist to Know,” affirming his growing reputation as one of the most dynamic voices of his generation.\u003c/p\u003e\n\n\u003cp\u003eDurand’s rise has reached a new peak with his latest album, BLOOM, which earned three GRAMMY nominations, making him the second most nominated artist in the R\u0026amp;B genre this season. Nominations include Best Progressive R\u0026amp;B Album (BLOOM), Best Traditional R\u0026amp;B Performance (“Here We Are”) and Best R\u0026amp;B Song (“Overqualified”). A tribute to love beyond romance, BLOOM honors friendship, self discovery and the communities that keep us whole. Billboard called BLOOM “a towering achievement...An album that consciously expands the scope of Bernarr's already wide ranging sound.” In support of the album, Durand made his daytime television debut on The Tamron Hall Show with an interview and exclusive performance of “Overqualified,” and delivered a rendition of “Completed” for COLORSxSTUDIOS.\u003c/p\u003e\n\n\u003cp\u003eA 2025 winner of GLAAD’s Outstanding Breakthrough Music Artist Award and a current nominee for Outstanding Music Artist at the 37th Annual GLAAD Media Awards, Durand’s cultural impact continues to expand, strengthened by his viral Tiny Desk concert in 2023, hailed as “a masterclass in live performance,” and his creative direction and background vocals for Teedra Moses’s Tiny Desk performance in 2024. His breakout came with Sound Check (2016), followed by DUR\u0026amp; (2020), a bold debut featuring collaborations with Ari Lennox, Anna Wise, and Kaytranada.\u003c/p\u003e",
+                    "web_site_url": "https://www.durandbernarr.com/",
+                    "instagram_url": "https://www.instagram.com/durandbernarr/",
+                    "facebook_url": "https://www.facebook.com/DurandBernarr",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B00AI3J1VI/durand-bernarr",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@DurandbernarrTM",
+                    "spotify_artist_url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW?si=QeS7JFyERzaIH1xWdUB7tg",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": null,
+                    "performances": [
+                        {
+                            "id": 16498,
+                            "start": "2026-08-07T14:35:00.000-07:00",
+                            "end": "2026-08-07T15:25:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Durand Bernarr"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16519,
+            "festival_id": 157,
+            "name": "The Story So Far",
+            "category": "music",
+            "start": "2026-08-07T14:55:00.000-07:00",
+            "end": "2026-08-07T15:40:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "The Story So Far",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49095/festivalartist-19900-artist_image-73f48b40-3126-4255-96b6-61e884b0dcc1.jpg",
+                    "id": 19900,
+                    "bio": "\u003cp\u003eThe Story So Far have returned with their new album I Want To Disappear. Comprised of ten songs, it contains everything that’s brought them international acclaim and success since their inception.\u003c/p\u003e\n\n\u003cp\u003eThe current lineup features Parker Cannon (vocals), Kevin Geyer (lead guitar, keys), Ryan Torf (drums, rhythm guitar, and keys) and Will Levy (guitars).\u003c/p\u003e\n\n\u003cp\u003e “We're always just trying to make something that we love and that feels like it's relevant to where we are in life,” says Torf. “We've already done so much in the past, but we wanted this to feel like the present thing that we are. We tried to make something that we connected with, and that hopefully our fans will like as well.\u003c/p\u003e\n\n\u003cp\u003eBut first and foremost, it's just something that we're proud of and feel good about.”\u003c/p\u003e",
+                    "web_site_url": "https://thestorysofarca.com/",
+                    "instagram_url": "https://www.instagram.com/thestorysofarca/?hl=en",
+                    "facebook_url": "https://www.facebook.com/thestorysofarca/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg?si=mhoBUG2uRX-NCBx-jNnNEQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16519,
+                            "start": "2026-08-07T14:55:00.000-07:00",
+                            "end": "2026-08-07T15:40:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "The Story So Far"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16497,
+            "festival_id": 157,
+            "name": "Wet Leg",
+            "category": "music",
+            "start": "2026-08-07T15:55:00.000-07:00",
+            "end": "2026-08-07T16:45:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Wet Leg",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49103/festivalartist-19890-artist_image-bdfca499-0ed7-4317-bd0f-2e2c0f938424.jpg",
+                    "id": 19890,
+                    "bio": "\u003cp\u003eWet Leg - the Isle of Wight five-piece founded by Rhian Teasdale and Hester Chambers - have announced their eagerly anticipated second album moisturizer will be released on July 11th on Domino.\n\u003cbr /\u003e \n\u003cbr /\u003eAlongside the album announcement, the band also share the first taste of moisturizer with its frenetic, alluringly combative lead single “catch these fists.” Kicking things off with an untameable, electrified groove from its opening seconds, “catch these fists” is dance-punk par excellence – bass notes ricocheting off a wall of howling synth, thunderous beats catching strays from Teasdale’s cruel deadpan.\n\u003cbr /\u003e  \n\u003cbr /\u003eThe video, directed by the band and shot on the Isle of Wight, nods to Ti West, Cameron Crowe and their own “Wet Dream” video and is a suitably off-kilter introduction to moisturizer valley. The band will return to The Tonight Showstage at 30 Rockefeller Center on Wednesday, to give the song its international television debut.\n\u003cbr /\u003e \n\u003cbr /\u003eTouring with Ellis Durand (bass), Henry Holmes (drums), and Joshua Mobaraki(guitar, synth), Wet Leg developed into a taut, caustic live operation that made good on their debut's success: #1 chart placements at home and abroad, three GRAMMYs, two BRIT Awards and over half a billion streams. If success presents a fork in the road for any new band – to “go pop” or keep following your muse – Wet Leg emphatically chose the latter path – including working with Dan Carey again as their producer. In March 2024, the band decamped to the remote seaside town of Southwold in Norfolk, England, to write; living together, working all day, watching horror movies all night, they soon locked into a new sense of symbiosis. Subsequently, all five members of Wet Leg have writing credits on moisturizer - “We were just kind of having fun and exploring,” says Hester Chambers. “We focussed on: Is this going to be fun to play live? It was very natural that we would write the second record together” adds Rhian Teasdale.\n\u003cbr /\u003e \n\u003cbr /\u003eAs happens a couple of times on moisturizer, the major animus behind “catch these fists” was an interaction with a belligerent man, as chronicled in the song’s final verse. This is not to say shitty men are the sole focus of moisturizer — no matter how much album track “mangetout”, with its withering chorus of “get lost forever” may feel like the Nicole Kidman divorce photo in song form. On the contrary, this is largely an album about being, as the band exclaim on “pond song”, so “DEEP! IN! LOVE!!!!” moisturizer contains love songs of every stripe: stressed-out, gooey-eyed, gratuitously horny, blissed out, obsessive and mysterious.\n\u003cbr /\u003e \n\u003cbr /\u003eAlthough Teasdale previously felt allergic to writing love songs, moisturizer is defined by its sheer exuberance and Teasdale ended up finding the process empowering. That new sense of ownership extends to moisturizer’s album art, an instant-classic freak-fest in which Chambers and Teasdale bare long, ghoulish claws; Teasdale, sporting long, kitschy socks and sans eyebrows, grins fiendishly into the camera. It reflects the album, moisturizer is the band turning the dial up and delivering a record that is unapologetically bolder, stronger and raunchier.\u003c/p\u003e",
+                    "web_site_url": "https://wetlegband.com/",
+                    "instagram_url": "https://www.instagram.com/wetlegband/?hl=en",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ?si=67N484y1QkujSIpyPO3BTg",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16497,
+                            "start": "2026-08-07T15:55:00.000-07:00",
+                            "end": "2026-08-07T16:45:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Wet Leg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16556,
+            "festival_id": 157,
+            "name": "Billie Marten",
+            "category": "music",
+            "start": "2026-08-07T16:25:00.000-07:00",
+            "end": "2026-08-07T17:05:00.000-07:00",
+            "stage": "Panhandle",
+            "artists": [
+                {
+                    "name": "Billie Marten",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49041/festivalartist-19928-artist_image-fc8a258e-7b0d-47f2-b1c8-df549e2983a3.jpg",
+                    "id": 19928,
+                    "bio": "\u003cp\u003eBillie Marten loves to leave her mark on a good book—underlining important passages, scribbling ideas in the margins, folding the corners of pages into dog ears to mark her place. The 10 songs of Dog Eared serve that purpose, telling the story of who she was as she wrote and recorded it, cleaving her adolescence from her adulthood in order to move forward. She is the songwriter who finds wisdom in horses and encourages self-reflection while realizing she has barely begun her own. She is the singer who makes the chorus of “Goodnight Moon” as beautiful as a lunar corona and smartly lets dissonance slip between her voice and the band around her as she watches something she loves disappear during “Crown.” Marten is a consummate singer-songwriter who has dared to push beyond the limitations of that form and make a stunning record that marks a new page, suggesting what comes next through the strength and beauty of what’s right here.\u003c/p\u003e\n\n\u003cp\u003eWith Dog Eared, Billie calmly posits herself at the top of the tree of not just British contemporary folk artists, but with British songwriters at large.\u003c/p\u003e",
+                    "web_site_url": "https://www.billiemarten.com/",
+                    "instagram_url": "https://www.instagram.com/billiemarten/",
+                    "facebook_url": "https://www.facebook.com/billiemarten",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UC7B-nApg76kClvW-YBYezQQ",
+                    "spotify_artist_url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7?si=GxJ51fzdQ3mNCW30Ym6iyg",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16556,
+                            "start": "2026-08-07T16:25:00.000-07:00",
+                            "end": "2026-08-07T17:05:00.000-07:00",
+                            "stage": "Panhandle",
+                            "name": "Billie Marten"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16632,
+            "festival_id": 157,
+            "name": "Bootie Mashup: Diva Pop w/ DJ Tyme",
+            "category": "cocktail-magic",
+            "start": "2026-08-07T17:05:00.000-07:00",
+            "end": "2026-08-07T18:05:00.000-07:00",
+            "stage": "Cocktail Magic",
+            "artists": [
+                {
+                    "name": "Bootie Mashup",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49546/festivalartist-20290-artist_image-066a62c0-21b5-45be-9fa9-8b96a260c07b.jpg",
+                    "id": 20290,
+                    "bio": "\u003cp\u003eShowcasing the best mashups in the world ever for over two decades, Bootie Mashup has been throwing genre-fluid dance parties in San Francisco and beyond since 2003, shamelessly combining pop songs both throwback and current. On Friday, DJ Tyme will be mashing up Diva Pop, while on Saturday, DJ Airsun throws down Hip Hop Fuego! Bootie Mashup takes place every first Saturday at the legendary Cat Club in SoMa.\u003c/p\u003e",
+                    "web_site_url": "https://bootiemashup.com/",
+                    "instagram_url": "https://www.instagram.com/bootiemashup",
+                    "facebook_url": "https://www.facebook.com/BootieMashup",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": null,
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16632,
+                            "start": "2026-08-07T17:05:00.000-07:00",
+                            "end": "2026-08-07T18:05:00.000-07:00",
+                            "stage": "Cocktail Magic",
+                            "name": "Bootie Mashup: Diva Pop w/ DJ Tyme"
+                        },
+                        {
+                            "id": 16638,
+                            "start": "2026-08-08T17:05:00.000-07:00",
+                            "end": "2026-08-08T18:05:00.000-07:00",
+                            "stage": "Cocktail Magic",
+                            "name": "Bootie Mashup: Hip Hop Fuego w/ DJ Airsun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16517,
+            "festival_id": 157,
+            "name": "Geese",
+            "category": "music",
+            "start": "2026-08-07T17:50:00.000-07:00",
+            "end": "2026-08-07T18:50:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Geese",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49059/festivalartist-19883-artist_image-2a791f1b-f56b-479f-9963-97a8869c4001.jpg",
+                    "id": 19883,
+                    "bio": "\u003cp\u003eNew York City's Geese return with their highly anticipated 3rd studio album, 'Getting Killed.' After being approached by Kenneth 'Kenny Beats' Blume at a music festival, Geese tracked the album in his LA studio over the course of ten fast-paced days. With scant time for overdubbing, the finished project emerges as something of a chaotic comedy, shambolic in structure but passionately performed, informed by an exacting vision. Garage riffs are layered upon Ukrainian choir samples; hissing drum machines pulse softly behind screeching guitars; strange, lullaby-esque songs are interspersed with furious, repetitive experiments. With 'Getting Killed,' Geese balances a disarming new tenderness with an intensified anger, seemingly trading their love of classic rock for a disdain for music itself.\u003c/p\u003e",
+                    "web_site_url": "https://geeseband.com/",
+                    "instagram_url": "https://www.instagram.com/geesebandnyc",
+                    "facebook_url": "https://www.facebook.com/geesebandnyc/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@Geeseband",
+                    "spotify_artist_url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4?si=CvHSW9UETDuD0W91aUwDgg",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16517,
+                            "start": "2026-08-07T17:50:00.000-07:00",
+                            "end": "2026-08-07T18:50:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Geese"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16631,
+            "festival_id": 157,
+            "name": "The Emo Night Tour",
+            "category": "cocktail-magic",
+            "start": "2026-08-07T18:20:00.000-07:00",
+            "end": "2026-08-07T19:20:00.000-07:00",
+            "stage": "Cocktail Magic",
+            "artists": [
+                {
+                    "name": "The Emo Night Tour",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49543/festivalartist-20279-artist_image-18f635a4-6b20-4877-b3b4-56fa42400c58.jpg",
+                    "id": 20279,
+                    "bio": "\u003cp\u003eThe greatest tribute night to the music that was never just a phase… (including this event, which has been raging all across the country since 2015 and is only getting BIGGER AND BETTER)! The Emo Night Tour DJ’s will be spinning all the angst your teenage dirtbag heart desires all night long and will make you feel like you’re at Warped Tour ‘08 minus all the dust and melting in the sun!\u003c/p\u003e",
+                    "web_site_url": "https://www.emonighttour.com/",
+                    "instagram_url": "https://www.instagram.com/emonighttour",
+                    "facebook_url": "https://www.facebook.com/emonighttour/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": null,
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16631,
+                            "start": "2026-08-07T18:20:00.000-07:00",
+                            "end": "2026-08-07T19:20:00.000-07:00",
+                            "stage": "Cocktail Magic",
+                            "name": "The Emo Night Tour"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16607,
+            "festival_id": 157,
+            "name": "Light Asylum",
+            "category": "dolores",
+            "start": "2026-08-07T18:45:00.000-07:00",
+            "end": "2026-08-07T19:30:00.000-07:00",
+            "stage": "Dolores’ x Hot Goth GF",
+            "artists": [
+                {
+                    "name": "Light Asylum",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49360/festivalartist-20176-artist_image-fa0a9f44-d1a5-4850-8ad1-2e6ddc2e07f8.jpg",
+                    "id": 20176,
+                    "bio": "\u003cp\u003eThe vocalist, producer Shannon Funchess has captivated audiences of all ages with cathartic performances since LIGHT ASYLUM emerged in Brooklyn, New York in 2009 at the forefront of a movement turned full blown revival of 80’s and 90’s dystopic electronic dance music. Inspired by the pioneers in the undergrounds of Detroit Techno, Belgian New Beat, EBM, Bat Cave and Chicago House, the collaborative project has pushed the techno-punk, cyber-goth sound of the past into the future, across festival and nightclub stages to dance floors around the globe.\u003c/p\u003e",
+                    "web_site_url": "https://lightasylum.bandcamp.com/",
+                    "instagram_url": "https://www.instagram.com/light_asylum/",
+                    "facebook_url": "https://www.facebook.com/LIGHTASYLUM",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@LightAsylumOfficial",
+                    "spotify_artist_url": "https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8?si=fYJ4WLdwTkezcEvW5Jm5JQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16607,
+                            "start": "2026-08-07T18:45:00.000-07:00",
+                            "end": "2026-08-07T19:30:00.000-07:00",
+                            "stage": "Dolores’ x Hot Goth GF",
+                            "name": "Light Asylum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16494,
+            "festival_id": 157,
+            "name": "Charli xcx",
+            "category": "music",
+            "start": "2026-08-07T20:40:00.000-07:00",
+            "end": "2026-08-07T22:00:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Charli XCX",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49122/festivalartist-19866-artist_image-0cd06ecf-da07-4ae6-9e6c-6d0782c08765.jpg",
+                    "id": 19866,
+                    "bio": null,
+                    "web_site_url": "https://www.charlixcx.com/",
+                    "instagram_url": "https://www.instagram.com/charli_xcx/",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B001C3C3VI/charli-xcx",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@officialcharlixcx",
+                    "spotify_artist_url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16494,
+                            "start": "2026-08-07T20:40:00.000-07:00",
+                            "end": "2026-08-07T22:00:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Charli xcx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16515,
+            "festival_id": 157,
+            "name": "Modest Mouse",
+            "category": "music",
+            "start": "2026-08-07T20:50:00.000-07:00",
+            "end": "2026-08-07T21:50:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Modest Mouse",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49331/festivalartist-19882-artist_image-e73df1f1-9c9b-4cd6-9f82-ec2ca2e796fc.jpg",
+                    "id": 19882,
+                    "bio": "\u003cp\u003eHaving recently completed another successful run with Pixies and Cat Power, Modest Mouse continues to prove themselves to be one of the most consistent live acts today. Modest Mouse released their highly anticipated new album, The Golden Casket, on June 25, 2021 via Epic Records. The Golden Casket heralds another new chapter in the GRAMMY® Award-nominated multi platinum band’s unpredictable evolution. Produced with Dave Sardy and Jacknife Lee in Los Angeles and in Modest Mouse’s studio in Portland, the album hovers in the liminal space between raw punk power and experimental studio science, frontman Isaac Brock explores themes ranging from the degradation of our psychic landscapes and invisible technology, to fatherhood. The twelve tracks behave like amorphous organisms, undergoing dramatic mutations and mood swings that speak to the chronic tug-of-war between hope and despair that plays out in Brock’s head.\u003c/p\u003e",
+                    "web_site_url": "https://www.modestmouse.com/",
+                    "instagram_url": "https://www.instagram.com/modestmouse",
+                    "facebook_url": "https://www.facebook.com/ModestMouse/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16515,
+                            "start": "2026-08-07T20:50:00.000-07:00",
+                            "end": "2026-08-07T21:50:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Modest Mouse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16506,
+            "festival_id": 157,
+            "name": "Haute \u0026 Freddy",
+            "category": "music",
+            "start": "2026-08-08T13:25:00.000-07:00",
+            "end": "2026-08-08T14:10:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Haute \u0026 Freddy",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49063/festivalartist-19920-artist_image-fbaa1111-ee13-4073-aa3b-774201b1a3b9.jpg",
+                    "id": 19920,
+                    "bio": "\u003cp\u003eHaute \u0026amp; Freddy is the dazzling brainchild of Michelle Buzz and Lance Shipp. The duo released their first single, Scantily Clad, sparking a devoted fanbase. The song landed them on Spotify playlists Lorem, Obsessed, and the cover of Fresh Finds, paving the way for their second single, Anti-Superstar, which has been embraced with equal support—earning placements on New Music Friday, Noteable, Limelight, Nightpop, and more.\u003c/p\u003e\n\n\u003cp\u003eFast forward to now, and the comment sections are buzzing with fans speaking in Ren Faire lingo, while their shows are filled with attendees crafting their own jester hats, as a mime clown joyfully twists balloon crowns for the rest of the Royal Court—aka H\u0026amp;F’s loyal followers. With their debut album on the horizon, Haute \u0026amp; Freddy’s momentum is picking up speed, and fans are eagerly awaiting the drop of their next single, Shy Girl, following their latest February release, Fashion Over Function.\u003c/p\u003e\n\n\u003cp\u003eTheir love for theater, obscure synths, and underground club culture runs deep, infusing every track with an audacious energy. The duo moves through their music like runaway carnies, crashing through the veneer of polite society with all the flair of an 18th-century escapade.\u003c/p\u003e",
+                    "web_site_url": "https://www.hauteandfreddy.com/",
+                    "instagram_url": "https://www.instagram.com/hauteandfreddy/",
+                    "facebook_url": "https://www.facebook.com/profile.php?id=61575042550975",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@HauteandFreddy",
+                    "spotify_artist_url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16506,
+                            "start": "2026-08-08T13:25:00.000-07:00",
+                            "end": "2026-08-08T14:10:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Haute \u0026 Freddy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16527,
+            "festival_id": 157,
+            "name": "Wunderhorse",
+            "category": "music",
+            "start": "2026-08-08T13:50:00.000-07:00",
+            "end": "2026-08-08T14:35:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Wunderhorse",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49104/festivalartist-19922-artist_image-bc48633d-2515-457c-9901-29e510ecf372.jpg",
+                    "id": 19922,
+                    "bio": "\u003cp\u003eWunderhorse have seen their popularity snowball the old-fashioned way; winning fans over through visceral live performances and Jacob Slater’s vivid songwriting.\u003c/p\u003e\n\n\u003cp\u003e2024 saw ‘the arrival of a band that could become generational’ (Rolling Stone UK) with the release of their sophomore album, Midas. Recorded at Minnesota’s Pachyderm Studio (birthplace of Nirvana’s In Utero \u0026amp; PJ Harvey’s Rid Of Me) with producer Craig Silvey, Midas follows their acclaimed 2022 debut, Cub, and captures the visceral atmosphere of the band’s lauded live performances.\u003c/p\u003e\n\n\u003cp\u003eThey have since played their biggest headline shows to date, won The Group Award at the 2025 Rolling Stone UK Awards, and seen their second album Midas turn silver. Wunderhorse are a band who have quickly become one of British guitar music’s most exciting outfits.\u003c/p\u003e",
+                    "web_site_url": "https://wunderhorseband.com/",
+                    "instagram_url": "https://www.instagram.com/wunderhorse_/",
+                    "facebook_url": "https://www.facebook.com/wunderhorse",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCl8o8PDvN8h26ovTI_F11bA",
+                    "spotify_artist_url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib?si=osQzQ9ZqTcu3RDYO1af11A",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16527,
+                            "start": "2026-08-08T13:50:00.000-07:00",
+                            "end": "2026-08-08T14:35:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Wunderhorse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16546,
+            "festival_id": 157,
+            "name": "After",
+            "category": "music",
+            "start": "2026-08-08T13:55:00.000-07:00",
+            "end": "2026-08-08T14:35:00.000-07:00",
+            "stage": "Twin Peaks",
+            "artists": [
+                {
+                    "name": "After",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49031/festivalartist-19936-artist_image-e4d07bc9-207f-498a-8813-1bfad50d56d7.jpg",
+                    "id": 19936,
+                    "bio": "\u003cp\u003eBefore everything, there is After. After consists of Graham Epstein and Justine Dorsey. They met on Hinge in Los Angeles, CA and formed After once they realized they’d probably do better as a band than as a couple. They were both born on August 23, 1995 and this is either coincidence or kismet depending on which of them you ask. With references ranging from Michelle Branch to Portishead, Fountains Of Wayne to Enigma, After is the Y2K, trip-hop, pop band you always knew you needed because you once heard it in a dream.\u003c/p\u003e",
+                    "web_site_url": "https://www.after.band/",
+                    "instagram_url": "https://www.instagram.com/aftertheband/",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li?si=SJI8pDb2QHu7PzcC1w-amw",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16546,
+                            "start": "2026-08-08T13:55:00.000-07:00",
+                            "end": "2026-08-08T14:35:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "After"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16505,
+            "festival_id": 157,
+            "name": "Audrey Hobert",
+            "category": "music",
+            "start": "2026-08-08T14:40:00.000-07:00",
+            "end": "2026-08-08T15:30:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Audrey Hobert",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49034/festivalartist-19897-artist_image-70f20c32-6140-4004-b73e-1c6c442f51be.jpg",
+                    "id": 19897,
+                    "bio": "\u003cp\u003eA lifelong singer, musical theatre devotee and dancer, Audrey got her first taste of songwriting when childhood best friend and then-roommate Gracie Abrams pulled Audrey into the making of her album, The Secret of Us. Together, they wrote some of Gracie’s standouts like “I Love You, I’m Sorry” and “Risk”—for which Audrey directed the music videos—as well as current global hit “That’s So True.”\u003c/p\u003e\n\n\u003cp\u003eFollowing that project, she signed a publishing deal which put her plans to pursue TV writing on pause. As she began writing, she realized the music was undeniably her own, and her artistic project was born, then brought to life with production partner Ricky Gourmet. Who’s the Clown? represents Audrey’s exploration of her own creative vision, as it is the first collection of songs that she ever wrote for herself. Audrey is a one-woman-show, fully realizing all aspects of her music from start to finish—writing songs, singing, directing and editing music videos.\u003c/p\u003e",
+                    "web_site_url": "https://www.audreyhobert.net/",
+                    "instagram_url": "https://www.instagram.com/audreyhobert/?hl=en",
+                    "facebook_url": "https://www.facebook.com/p/Audrey-Hobert-61572171849227/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@audreyhobert",
+                    "spotify_artist_url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS?si=lhSfjOeNQvqC3c2JPN0iGQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16505,
+                            "start": "2026-08-08T14:40:00.000-07:00",
+                            "end": "2026-08-08T15:30:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Audrey Hobert"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16525,
+            "festival_id": 157,
+            "name": "Sienna Spiro",
+            "category": "music",
+            "start": "2026-08-08T15:05:00.000-07:00",
+            "end": "2026-08-08T15:50:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Sienna Spiro",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49128/festivalartist-19906-artist_image-047b39f8-a8ee-4691-b790-adcbcecbf01a.jpg",
+                    "id": 19906,
+                    "bio": "\u003cp\u003eWith her effortlessly soulful tone, cinematic storytelling, and subtly modern yet timeless sound, Sienna possesses the type of voice that stays with you long after her music has left the room. Since debuting in May 2024 with her single ‘NEED ME’, Sienna has made an extraordinary impact in the music scene. With only a selection of songs released, she has amassed over 28M monthly listeners and 2.9M followers on TikTok. Her effortlessly soulful tone and extraordinary vocal abilities make it hard to believe that she’s just 20-years-old, though has already dazzled industry heavyweights including SZA, Snoh Aalegra, Finneas, and Mark Ronson.\u003c/p\u003e\n\n\u003cp\u003eSienna recently shared heartfelt and honest ballad ‘Die On This Hill’, which has taken off around the world, receiving support from BBC Radio 1 and Capital FM, plus becoming her first UK Top 10 Single. With ‘Die On This Hill’, Sienna also achieved three songs in the Official Singles Chart Top 100, joining a stellar lineup of Lola Young, Olivia Dean, and RAYE as the only British female artists to have three songs in the chart at one time.\u003c/p\u003e\n\n\u003cp\u003eFollowing her sold-out UK/EU headline tour, Sienna supported Sam Smith on their ‘To Be Free: New York City’ residency. Earlier this year, she impressed mammoth crowds with her powerful performance at All Points East, BBC Radio 1’s Big Weekend, as well as a support slot across the US for GRAMMY® nominated superstar Teddy Swims.\u003c/p\u003e\n\n\u003cp\u003eWith an undeniable talent for producing ever-relatable lyrics and having already gained the ears of millions from all over the world, Sienna continues to become an unstoppable force in her field.\u003c/p\u003e",
+                    "web_site_url": "https://www.officialsiennaspiro.com/",
+                    "instagram_url": "https://www.instagram.com/siennaspiro",
+                    "facebook_url": "https://www.facebook.com/officialsiennaspiro/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v?si=9OoF1lWHSxau9YjUVh6fNQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16525,
+                            "start": "2026-08-08T15:05:00.000-07:00",
+                            "end": "2026-08-08T15:50:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Sienna Spiro"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16545,
+            "festival_id": 157,
+            "name": "Łaszewo",
+            "category": "music",
+            "start": "2026-08-08T15:10:00.000-07:00",
+            "end": "2026-08-08T16:00:00.000-07:00",
+            "stage": "Twin Peaks",
+            "artists": [
+                {
+                    "name": "Łaszewo",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49025/festivalartist-19905-artist_image-019ca86e-0ec2-4d37-a95d-5c68c5c71cca.jpg",
+                    "id": 19905,
+                    "bio": "\u003cp\u003eŁaszewo’s Matthew Ehrlich, Keeva Bouley, and Justin De La Fuente originally came together in Santa Barbara, California under unexpected circumstances in 2018. When Justin heard Keeva singing through her open apartment window, he immediately knocked on her door and the rest was history. Since then, they have continued to rise and grow into one of the most exciting and dynamic electronic pop acts. Łaszewo’s 2025 has been off to a hot start with their viral breakout record “messy,” which has garnered millions of streams, hundreds of thousands of UGC, and continues to top the global, Billboard, and dance radio charts. Their follow up single, “HIGHJACK (right back)” with A$AP Rocky and Alok is an explosive and emotionally charged anthem that is already on track for similar global success. Additionally, the trio made their Red Rocks debut earlier this year with a performance that marked a career-defining moment and showcased their signature fusion of emotional songwriting and high-energy production. They are also on track for a sold out US fall run in San Francisco, Chicago, and Denver, as well as embarking on their debut EU tour in December. Łaszewo's two producer and female lead vocalist setup is unique to the electronic landscape. Their diverse talent, unique sonic identity, and charismatic stage presence continues to allow them to be a rising force in the electronic-pop scene and captivate audiences globally along the way in 2025.\u003c/p\u003e",
+                    "web_site_url": "https://www.laszewo.com/",
+                    "instagram_url": "https://www.instagram.com/laszewo",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCnOZUDbRc2Ae76IhROupOfA",
+                    "spotify_artist_url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN?si=xMkUsJ-yQ6SEjLODgkQ2yw\u0026nd=1\u0026dlsi=3ccdd53e537f42eb",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16545,
+                            "start": "2026-08-08T15:10:00.000-07:00",
+                            "end": "2026-08-08T16:00:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "Łaszewo"
+                        },
+                        {
+                            "id": 16597,
+                            "start": "2026-08-08T18:20:00.000-07:00",
+                            "end": "2026-08-08T18:50:00.000-07:00",
+                            "stage": "Duboce Triangle",
+                            "name": "Łaszewo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16504,
+            "festival_id": 157,
+            "name": "Lucy Dacus",
+            "category": "music",
+            "start": "2026-08-08T16:00:00.000-07:00",
+            "end": "2026-08-08T16:50:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Lucy Dacus",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49072/festivalartist-19887-artist_image-88f627c6-3df7-43ea-bb97-57fe0cb7fed0.jpg",
+                    "id": 19887,
+                    "bio": "\u003cp\u003eLucy Dacus is a musician from Virginia, regarded as “one of the best songwriters of her generation” (Rolling Stone). She has released four full-length albums under her name: 2016’s No Burden, 2018’s Historian, 2021’s Home Video, and 2025’s Forever Is A Feeling. In 2023, Dacus spent a career-defining year with boygenius, her band with Phoebe Bridgers and Julien Baker. boygenius’ album, the record, garnered widespread acclaim and saw the trio take home three GRAMMY Awards.\u003c/p\u003e\n\n\u003cp\u003e Her most recent record, Forever Is A Feeling, was lauded by Variety as “the most romantic record you might hear” and reached #1 spots on both the Billboard Rock Album Chart and the Billboard Folk/Americana Album Chart. Dacus also cemented her reputation as a powerful live act following the release of Forever Is A Feeling, performing around the globe on her most expansive tour to date and selling out legendary venues like Radio City, Red Rocks and the O2 Academy Brixton in London.\u003c/p\u003e",
+                    "web_site_url": "http://www.lucydac.us",
+                    "instagram_url": "http://www.instagram.com/lucydacus",
+                    "facebook_url": "http://www.facebook.com/lucydacus",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP?si=wHR1S4cvRMqEbUQzLJ0o_A",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16504,
+                            "start": "2026-08-08T16:00:00.000-07:00",
+                            "end": "2026-08-08T16:50:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Lucy Dacus"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16526,
+            "festival_id": 157,
+            "name": "Yard Act",
+            "category": "music",
+            "start": "2026-08-08T16:20:00.000-07:00",
+            "end": "2026-08-08T17:05:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Yard Act",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49323/festivalartist-19925-artist_image-f145ec86-bacc-4e36-8009-6c62ac9a13aa.jpg",
+                    "id": 19925,
+                    "bio": "\u003cp\u003eSince their beginning, breaking through as a smart, witty new force within the British guitar music landscape back in the dark days of the pandemic, Yard Act have been wrangling with the knotty complexities of the human condition. \u003c/p\u003e\n\n\u003cp\u003eTheir Mercury Prize-nominated 2022 debut The Overload span wry, winking tales of capitalism and the strive for success, wrapped in the sort of propulsive, serrated riffs that quickly saw them labelled as post-punk’s new darlings. With its Top Five-placing 2024 follow-up Where’s My Utopia?, the band - vocalist James Smith, bassist Ryan Needham, guitarist Sam Shipstone and drummer Jay Russell - blasted both of those conceits apart, creating a musically-exploratory and diverse record that worked to unpick and examine the very notion of ambition and fulfillment; of ‘what happens next’. \u003c/p\u003e\n\n\u003cp\u003eThe journey of Smith’s lyrics across each of their albums, Shipstone muses, has always been quite Faustian: “It’s someone who’s seeking a goal, and then makes a pact with the devil to get the goods they want, but when they get them they’re corrupted so they get the rewards but also this bitterness too.” “And how does Faust end?” questions Needham. “Oh, not well…”\u003c/p\u003e\n\n\u003cp\u003eIf this sounds like a macabre place to root the objectively excellent third album from one of the country’s most celebrated bands of the last decade, then it’s also crucial to understanding Yard Act’s newest - and best - record yet, You’re Gonna Need A Little Music. Simultaneously the most dynamic, collaborative, energised work they’ve laid to tape, but also containing some of the darkest, most cynical and truly questioning moments they’ve concocted too, it picks up their tale and examines the findings more unsparingly than ever. \u003c/p\u003e\n\n\u003cp\u003eIt feels appropriate that, in order to interrogate these existential subjects, the writing and recording of You’re Gonna Need A Little Music involved the four musicians coming together and strengthening their own core unit more than ever. Weirdly, for a band so associated with incendiary live shows and constant touring, their third LP marks the first time that the quartet have ever made an album together, as a live band in the same room. “The first two records were both laptop records essentially,” says Smith. The Overload was written alongside Needham before the band had fully formed; its follow-up was carved out in snatches of time on tour buses and hotel rooms, amongst a relentless schedule of “slinging [all our gear] in the rehearsal space, going back home, and then a week later piling it back into a van again.”\u003c/p\u003e\n\n\u003cp\u003eIf their last record was created like a game of Exquisite Corpse, each member taking the track and adding their part in turn (“I always thought that was a really over the top name for a piece of folded down paper…” Needham notes), then this time they laid down roots and gave themselves time. Russell kitted out their new studio in Leeds with everything they required to track the band live at the same time throughout the writing process, including an old piano passed down from Smith’s late aunt that would become integral to the process. For the first time in a long time, Yard Act were able to settle into an “uninterrupted five month period” of creativity, crafting “40 or 50 songs” and allowing themselves to follow their ideas with no external pressure. “It felt like freedom,” says Smith. “It felt like everything I’d wanted from being in a band - to be able to make enough money to be left alone.\u003c/p\u003e\n\n\u003cp\u003eThe results speak for themselves. Recorded between Leeds and Glendale, Los Angeles with producer Justin Meldal-Johnsen (Nine Inch Nails, Beck, St. Vincent), You’re Gonna Need A Little Music rings with the chemistry and energy of a band absolutely locked in. Each track has its own distinct character, whether in the ominous, guttural ferocity of ‘Redeemer’, the sleazy disco odyssey of its title track, the fizzing indie smarts of ‘Cherophobe Rock’ or the loose, cerebral meditations of ‘Janey Said’. It stems from a time of experimentation and exploration - ask Shipstone about “The Code” and he’ll give you a technical explanation as to why these songs are able to constantly veer into unexpected places whilst never undermining their melodic clout.\u003c/p\u003e\n\n\u003cp\u003eThe sense is of a band hitting a purple patch, where all the efforts of the last half-decade come together and create magic. “I think most bands’ best stuff comes around the 3rd or 4th album where they really outgrow their influences and become their own thing,” muses Smith as Needham chips in: “I keep saying, it’s like Blur. This is Parklife. The first album they were doing the genre-y thing; the second one was a kick against that but they didn’t really know what they were doing, and then they made Parklife, which was the perfect distillation of it all.”\u003c/p\u003e\n\n\u003cp\u003eYou’re Gonna Need A Little Music, however, is no whimsical walk through suburban England. From the opening self-analytical sprawl of ‘Empty Pledges’ - a track that begins with juddering deep breaths at the top of a skyscraper and freefalls into a torrent of thoughts about purpose, pride and the feeling of punching your way out of a prison of your own making - Yard Act’s third seeks to work through some of the most complicated facets of life. \u003c/p\u003e\n\n\u003cp\u003eIn some ways, and on purpose, it is a step away from Smith’s venerated vignettes and character studies; a move towards something more “impressionistic” and up for interpretation. “I felt like I’d taken it to its logical extreme on ‘Blackpool Illuminations’ [on the last record], and I didn’t want to tread old ground,” he says. And yet the feeling still pours through, perhaps more than ever. There is a journey, should you want to trace it, from the fictional Isle of Balamory to the fantasy/ reality of San Francisco Bay. Tread the path with him and you’ll keep running into Janey - a mirror to Smith’s own psyche; a person but, y’know, not exactly. “I think the album is about multiple realities and how individualism has led us, in the modern world, to question if there even is a shared reality anymore because everyone just believes what they want now, this is the price we've paid for pursuing neoliberalism ultimately” Smith suggests.\u003c/p\u003e\n\n\u003cp\u003eThe questions are deep, but the spirit of You’re Gonna Need A Little Music is boundless - not for nothing does its title point to the power of art and creativity to rescue us from the mire. ‘Thrill of The Chase’, with its snarled, frenetic climax as close to rap as Smith has ever reached, is filled with venom but you can also picture it giddily going off in the mosh pit. ‘Redeemer’ might have thrown the kitchen sink - or at least its cookware - at the situation, with Meldal-Johnsen concocting a brittle, metallic soundscape out of a day of rattling pots and pans, but the result is direct, visceral and exciting. \u003c/p\u003e\n\n\u003cp\u003eIt’s a balancing act that culminates, as all Yard Act albums do, with a final moment of optimism in ‘Over The Barrel’: a track that travels from rinky dink bar-room piano through a euphoric indie-rock chorus and out, finally, into that sought-after ocean. Perhaps it’s less certain than Smith has been in the past. “‘Over The Barrel’ [as a saying] can have multiple meanings. The choice is yours. But,” says the frontman, “personally, I still have a bit of hope in me for how it all works out.” The destination might still be unknown, but the journey is unequivocally Yard Act’s finest yet. Maybe Faust didn’t have the ending all worked out after all.\u003c/p\u003e\n\n\u003cp\u003eYou’re Gonna Need A Little Music is released 17th July via Island / EMI Records.\n\u003c/p\u003e",
+                    "web_site_url": "https://www.yardactors.com/",
+                    "instagram_url": "https://www.instagram.com/yardactband/",
+                    "facebook_url": "https://www.facebook.com/YardActBand/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd?go=1\u0026sp_cid=dee2c1bacbc765fd0f29f1a0e0276531\u0026utm_source=embed_player_p\u0026utm_medium=desktop",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16526,
+                            "start": "2026-08-08T16:20:00.000-07:00",
+                            "end": "2026-08-08T17:05:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Yard Act"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16544,
+            "festival_id": 157,
+            "name": "Malcolm Todd",
+            "category": "music",
+            "start": "2026-08-08T16:45:00.000-07:00",
+            "end": "2026-08-08T17:45:00.000-07:00",
+            "stage": "Twin Peaks",
+            "artists": [
+                {
+                    "name": "Malcolm Todd",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49135/festivalartist-19892-artist_image-7e64a203-9ba3-486c-9bc6-4575939ec9fd.jpg",
+                    "id": 19892,
+                    "bio": "\u003cp\u003eMalcolm Todd is part of a new generation redefining alternative pop with fearless honesty and sharp creative instinct. After betting on himself straight out of high school, he built a fast-growing fanbase through relentless work ethic and music that feels diaristic, unpredictable, and emotionally raw. Blending glossy pop sensibilities with anxious lyricism and left-of-center production, Todd creates songs that are funny, vulnerable, and explosive.\u003c/p\u003e",
+                    "web_site_url": "https://malcolmtodd.cool",
+                    "instagram_url": "https://instagram.com/malcolmtodd",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz?si=Pw_pSeibSwK2WcUoje_l3A",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16544,
+                            "start": "2026-08-08T16:45:00.000-07:00",
+                            "end": "2026-08-08T17:45:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "Malcolm Todd"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16581,
+            "festival_id": 157,
+            "name": "Sultan + Shepard",
+            "category": "music",
+            "start": "2026-08-08T16:55:00.000-07:00",
+            "end": "2026-08-08T18:25:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Sultan + Shepard",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49094/festivalartist-19912-artist_image-04b593e7-2e77-48c5-b54e-aeb6e6510a38.jpg",
+                    "id": 19912,
+                    "bio": "\u003cp\u003eFrom a serendipitous meeting at a Montreal club in 2002, Ossama Al Sarraf and Ned Shepard have forged one of dance music’s most compelling partnerships. Their career boasts collaborations with iconic EDM artists such as Dillon Francis and Tiësto, and remixes for global superstars including Coldplay, Ed Sheeran, Lady Gaga, and Madonna. Their contributions to the electronic music scene have garnered critical acclaim, with highlights including a Grammy nomination for Best Remixed Recording (Bruno Mars' ‘Locked Out Of Heaven’) and two Juno Award nominations for Best Dance Recording. In 2021, the duo joined Lane 8's This Never Happened label, marking a musical rebirth shaped by raw emotion, introspection, and a renewed focus on storytelling. This transformative chapter culminates with their latest release, Circle In Time, which encapsulates their stunning trilogy of albums: Something, Everything, Forever, Now, and Endless, Dawn.\u003c/p\u003e\n\n\u003cp\u003eRenowned for their dynamic energy, intricate production, and emotive storytelling, Sultan + Shepard continue to captivate audiences solidifying themselves as forces to be reckoned with in the progressive and melodic house space. With shows spanning the globe at festivals like Tomorrowland, Ultra, and EDC, their performances promise to deliver the same electrifying magic that has cemented their reputation as one of dance music’s premier acts.\u003c/p\u003e",
+                    "web_site_url": "https://sultanshepard.com/",
+                    "instagram_url": "https://www.instagram.com/sultanshepard/?hl=en",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16581,
+                            "start": "2026-08-08T16:55:00.000-07:00",
+                            "end": "2026-08-08T18:25:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Sultan + Shepard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16638,
+            "festival_id": 157,
+            "name": "Bootie Mashup: Hip Hop Fuego w/ DJ Airsun",
+            "category": "cocktail-magic",
+            "start": "2026-08-08T17:05:00.000-07:00",
+            "end": "2026-08-08T18:05:00.000-07:00",
+            "stage": "Cocktail Magic",
+            "artists": [
+                {
+                    "name": "Bootie Mashup",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49546/festivalartist-20290-artist_image-066a62c0-21b5-45be-9fa9-8b96a260c07b.jpg",
+                    "id": 20290,
+                    "bio": "\u003cp\u003eShowcasing the best mashups in the world ever for over two decades, Bootie Mashup has been throwing genre-fluid dance parties in San Francisco and beyond since 2003, shamelessly combining pop songs both throwback and current. On Friday, DJ Tyme will be mashing up Diva Pop, while on Saturday, DJ Airsun throws down Hip Hop Fuego! Bootie Mashup takes place every first Saturday at the legendary Cat Club in SoMa.\u003c/p\u003e",
+                    "web_site_url": "https://bootiemashup.com/",
+                    "instagram_url": "https://www.instagram.com/bootiemashup",
+                    "facebook_url": "https://www.facebook.com/BootieMashup",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": null,
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16632,
+                            "start": "2026-08-07T17:05:00.000-07:00",
+                            "end": "2026-08-07T18:05:00.000-07:00",
+                            "stage": "Cocktail Magic",
+                            "name": "Bootie Mashup: Diva Pop w/ DJ Tyme"
+                        },
+                        {
+                            "id": 16638,
+                            "start": "2026-08-08T17:05:00.000-07:00",
+                            "end": "2026-08-08T18:05:00.000-07:00",
+                            "stage": "Cocktail Magic",
+                            "name": "Bootie Mashup: Hip Hop Fuego w/ DJ Airsun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16597,
+            "festival_id": 157,
+            "name": "Łaszewo",
+            "category": "duboce-triangle",
+            "start": "2026-08-08T18:20:00.000-07:00",
+            "end": "2026-08-08T18:50:00.000-07:00",
+            "stage": "Duboce Triangle",
+            "artists": [
+                {
+                    "name": "Łaszewo",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49025/festivalartist-19905-artist_image-019ca86e-0ec2-4d37-a95d-5c68c5c71cca.jpg",
+                    "id": 19905,
+                    "bio": "\u003cp\u003eŁaszewo’s Matthew Ehrlich, Keeva Bouley, and Justin De La Fuente originally came together in Santa Barbara, California under unexpected circumstances in 2018. When Justin heard Keeva singing through her open apartment window, he immediately knocked on her door and the rest was history. Since then, they have continued to rise and grow into one of the most exciting and dynamic electronic pop acts. Łaszewo’s 2025 has been off to a hot start with their viral breakout record “messy,” which has garnered millions of streams, hundreds of thousands of UGC, and continues to top the global, Billboard, and dance radio charts. Their follow up single, “HIGHJACK (right back)” with A$AP Rocky and Alok is an explosive and emotionally charged anthem that is already on track for similar global success. Additionally, the trio made their Red Rocks debut earlier this year with a performance that marked a career-defining moment and showcased their signature fusion of emotional songwriting and high-energy production. They are also on track for a sold out US fall run in San Francisco, Chicago, and Denver, as well as embarking on their debut EU tour in December. Łaszewo's two producer and female lead vocalist setup is unique to the electronic landscape. Their diverse talent, unique sonic identity, and charismatic stage presence continues to allow them to be a rising force in the electronic-pop scene and captivate audiences globally along the way in 2025.\u003c/p\u003e",
+                    "web_site_url": "https://www.laszewo.com/",
+                    "instagram_url": "https://www.instagram.com/laszewo",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCnOZUDbRc2Ae76IhROupOfA",
+                    "spotify_artist_url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN?si=xMkUsJ-yQ6SEjLODgkQ2yw\u0026nd=1\u0026dlsi=3ccdd53e537f42eb",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16545,
+                            "start": "2026-08-08T15:10:00.000-07:00",
+                            "end": "2026-08-08T16:00:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "Łaszewo"
+                        },
+                        {
+                            "id": 16597,
+                            "start": "2026-08-08T18:20:00.000-07:00",
+                            "end": "2026-08-08T18:50:00.000-07:00",
+                            "stage": "Duboce Triangle",
+                            "name": "Łaszewo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16580,
+            "festival_id": 157,
+            "name": "Ben Böhmer",
+            "category": "music",
+            "start": "2026-08-08T18:40:00.000-07:00",
+            "end": "2026-08-08T20:10:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Ben Böhmer",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49040/festivalartist-19898-artist_image-88c0037d-c0a7-49c3-b656-1f5b7bcfd914.jpg",
+                    "id": 19898,
+                    "bio": "\u003cp\u003eBen Böhmer is a driven composer and producer, constantly bringing new ideas to life through his music. Over the past decade, he has dedicated himself to honing a craft that allows him to express deep, complex emotions. His breakthrough debut album, Breathing, explored grief, while its follow-up, 2021’s Begin Again, delved into themes of separation. The success of these records - more than 1 billion streams - and his ability to connect with audiences in a live setting, performing over 200 shows in 2022 alone, cemented his place as a standout artist.\u003c/p\u003e",
+                    "web_site_url": "https://benboehmer.com/",
+                    "instagram_url": "https://www.instagram.com/benbohmermusic/",
+                    "facebook_url": "https://www.facebook.com/benbohmermusic",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/intl-de/artist/5tDjiBYUsTqzd0RkTZxK7u",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16580,
+                            "start": "2026-08-08T18:40:00.000-07:00",
+                            "end": "2026-08-08T20:10:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Ben Böhmer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16502,
+            "festival_id": 157,
+            "name": "Djo",
+            "category": "music",
+            "start": "2026-08-08T18:50:00.000-07:00",
+            "end": "2026-08-08T19:50:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Djo",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49052/festivalartist-19876-artist_image-9736ba64-1f72-4bbe-8a96-054b1b34fba9.jpg",
+                    "id": 19876,
+                    "bio": null,
+                    "web_site_url": "https://www.djomusic.com/",
+                    "instagram_url": "https://www.instagram.com/djotime",
+                    "facebook_url": "https://www.facebook.com/Djokyri/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm?si=EB_nLL3jQaOsbPIGnD5ldw",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16502,
+                            "start": "2026-08-08T18:50:00.000-07:00",
+                            "end": "2026-08-08T19:50:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Djo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16542,
+            "festival_id": 157,
+            "name": "The xx",
+            "category": "music",
+            "start": "2026-08-08T20:10:00.000-07:00",
+            "end": "2026-08-08T21:25:00.000-07:00",
+            "stage": "Twin Peaks",
+            "artists": [
+                {
+                    "name": "The xx",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49097/festivalartist-19869-artist_image-a5e1dd77-22ab-4981-876d-c9a5baff995d.jpg",
+                    "id": 19869,
+                    "bio": "\u003cp\u003eThe xx - Romy Madley Croft, Oliver Sim and Jamie Smith - formed in London in 2005. Their debut album xx (2009) reached number three in the UK and won the Mercury Music Prize, while its follow-up Coexist (2012) topped the UK chart and continued their global success. Together, the two albums have sold more than four million copies worldwide.\u003c/p\u003e\n\n\u003cp\u003eIn 2017, the band returned with I See You, a bold and expansive evolution recorded across New York, Texas, Reykjavík, Los Angeles and London. It debuted at number one in the UK and number two in the US.\u003c/p\u003e\n\n\u003cp\u003eAll three members have since developed acclaimed solo careers: Jamie xx with his GRAMMY- and Mercury-shortlisted albums In Colour (2015) and In Waves (2024); Oliver Sim with Hideous Bastard (2022); and Romy with her celebrated debut Mid Air (2023), which earned BRIT and GRAMMY nominations.\u003c/p\u003e\n\n\u003cp\u003eIn 2025, The xx announced their reunion to begin work on a fourth studio album and confirmed major live performances at Coachella and Primavera Sound in 2026.\u003c/p\u003e",
+                    "web_site_url": "https://thexx.info",
+                    "instagram_url": "https://www.instagram.com/thexx/",
+                    "facebook_url": "https://www.facebook.com/thexx/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B00GAVBQZG/the-xx",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy?si=N5b8co_mQgKYLS7Ym-NLnQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16542,
+                            "start": "2026-08-08T20:10:00.000-07:00",
+                            "end": "2026-08-08T21:25:00.000-07:00",
+                            "stage": "Twin Peaks",
+                            "name": "The xx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16579,
+            "festival_id": 157,
+            "name": "Lane 8",
+            "category": "music",
+            "start": "2026-08-08T20:25:00.000-07:00",
+            "end": "2026-08-08T21:55:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Lane 8",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49071/festivalartist-19891-artist_image-8832fb72-efc7-4ce0-a0d4-f9b021643474.jpg",
+                    "id": 19891,
+                    "bio": "\u003cp\u003eOnce dubbed the king of “dreamy backrub house”, Lane 8 has been making hips swing and sandals shuffle since his breakthrough DJ set in the empty dining room of a San Francisco pork restaurant back in 2012.\u003c/p\u003e\n\n\u003cp\u003eFounder of the This Never Happened label and touring concept, since 2016 he has nobly enabled thousands of music lovers worldwide to have IRL, unrecorded, body-transcending, life-affirming and soul-bonding communal dance experiences without phone distractions.\u003c/p\u003e\n\n\u003cp\u003e With five albums under his belt, his dreamy melodic sound has drawn influence from tough 90s hip hop, the sugar rush of the EDM heyday, the sleek European techno of labels like Kompakt, oddball electronica, the occasional dash of neo-trance noodles and his boyhood love of Pink Floyd - to mark just a few of his influences.\u003c/p\u003e\n\n\u003cp\u003e Outside of music, he likes biking, hiking, tart blueberries, family time, sleeping and eating food.\u003c/p\u003e\n\n\u003cp\u003eHe can occasionally be found typing on his phone to tell our beloved TNH community that it’s great when we get off our phones and just experience what is going on around us.\u003c/p\u003e",
+                    "web_site_url": "https://lane8music.com",
+                    "instagram_url": "https://www.instagram.com/lane8music/",
+                    "facebook_url": "https://www.facebook.com/lane8music",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16579,
+                            "start": "2026-08-08T20:25:00.000-07:00",
+                            "end": "2026-08-08T21:55:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Lane 8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16501,
+            "festival_id": 157,
+            "name": "The Strokes",
+            "category": "music",
+            "start": "2026-08-08T20:35:00.000-07:00",
+            "end": "2026-08-08T21:55:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "The Strokes",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49024/festivalartist-19956-artist_image-dbe2b053-4732-4ee3-8857-76328f6a12f5.jpg",
+                    "id": 19956,
+                    "bio": "\u003cp\u003eThe Strokes are a multi-platinum American rock band formed in New York City in 1998, consisting of Julian Casablancas (lead vocals), Nick Valensi (guitar, keyboard, backing vocals), Albert Hammond Jr. (guitar, keyboard, backing vocals), Nikolai Fraiture (bass) and Fabrizio Moretti (drums, percussion).\u003c/p\u003e\n\n\u003cp\u003eIn 2001, the band released their debut album, titled ‘Is This It’.  It was certified platinum in the U.S. \u0026amp; UK and received gold certification in a myriad of other countries around the world.  Their sophomore effort, ‘Room On Fire’ was released in 2003, and reached gold status in the U.S. and platinum once again in the UK.\u003c/p\u003e\n\n\u003cp\u003eSubsequent full-length releases came with ‘First Impressions Of Earth’, (2006), ‘Angles’ (2011), and ‘Comedown Machine’ (2013).  Their most recent studio recording was an EP released in the summer of 2016, entitled ‘Future Present Past’ via Julian Casablancas’ own Cult Records label.  The band is presently an RCA recording artist via a venture with Cult Records.\u003c/p\u003e",
+                    "web_site_url": "https://www.thestrokes.com/",
+                    "instagram_url": "https://www.instagram.com/thestrokes/",
+                    "facebook_url": "https://www.facebook.com/thestrokes/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B00G70DLAS/the-strokes",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/@thestrokes",
+                    "spotify_artist_url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V?si=LoXB1dXeRlOtt924jYjPbw\u0026nd=1\u0026dlsi=9ddc0896928c43a4",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16501,
+                            "start": "2026-08-08T20:35:00.000-07:00",
+                            "end": "2026-08-08T21:55:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "The Strokes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16522,
+            "festival_id": 157,
+            "name": "PinkPantheress",
+            "category": "music",
+            "start": "2026-08-08T20:45:00.000-07:00",
+            "end": "2026-08-08T21:45:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "PinkPantheress",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49129/festivalartist-19959-artist_image-41965a6c-c7cd-4104-9c01-24bdaf6bbb38.jpg",
+                    "id": 19959,
+                    "bio": "\u003cp\u003ePinkPantheress is a multi-platinum recording artist, songwriter, and producer. On an upward trajectory since 2021, PinkPantheress introspective lyrics, and ability to create infectious beats have garnered her a dedicated fan base. Following her critically acclaimed debut mixtape ‘To hell with it’, and international sleeper hit 'Pain' (1-Billion Streams), 2022 saw the rising star win BBC Music’s Sound of 2022, grace the cover of The Face whilst catching the attention of British Vogue where she was the only musician featured on the prestigious Vogue 25 list. \u003c/p\u003e\n\n\u003cp\u003e2023 saw PinkPantheress’ Boy's a Liar Pt. 1 \u0026amp; Pt. 2\" (1-Billion Streams) take the world by storm, spending an impressive 22 weeks in the Billboard Hot 100 (peaking at No.3), 28 weeks on the UK OCC singles chart (peaking at No.2) and charting #1 in several Spotify \u0026amp; Apple Music charts and has recently received double platinum status in the US. In November 2023, PinkPantheress released her highly anticipated debut album ‘Heaven knows’ which NME called “the blueprint for the future of British pop” whilst New York Times described the debut as “an effervescent collection of infectious hooks with a sound that crosses Y2K aesthetics with the boldness of contemporary hyperpop.” \u003c/p\u003e\n\n\u003cp\u003eLast year, PinkPantheress embarked on her biggest headline tour to date, the Capable of Love tour. Her sold-out show at Alexandra Palace earned glowing reviews, with The Guardian and NME awarding it 4*, while The Forty-Five praised, “The expectations for a show this size are bound to be high, but Pantheress goes above and beyond to make it one to remember.” The acclaim continued across the North American leg, where Exclaim! hailed her as a “low-key superstar”, and Rolling Stone declared, “A star is born.” \u003c/p\u003e\n\n\u003cp\u003eHer latest mixtape, Fancy That sees PinkPantheress lean into British pop culture, whilst embracing all things fun and kitschy as she embraces a new level of intimacy with her audience. Fancy That is testament to PinkPantheress’ ear, featuring samples and interpolations from Panic! at the Disco to Jessica Simpson to Basement Jaxx as she seamlessly blends classics and hidden gems with her signature earworm production. Pitchfork rated the mixtape an 8.0 whilst The Guardian gave it a 4* rating. 2025 saw PinkPantheress gain her first GRAMMY Nominations with Illegal (Best Dance Pop Recording) and Fancy That (Best Dance/Electronic Album) \u003c/p\u003e\n\n\u003cp\u003eSince stepping onto the scene, PinkPantheress has graced the covers of The Gentlewoman, i-D, The Face, and Rolling Stone UK, while also starring in campaigns for Marc Jacobs Heaven, Starface, Bose, and Apple. Most recently, she was honoured in Forbes' 30 Under 30 list and crowned Producer of the Year at the Billboard Women in Music Awards. \u003c/p\u003e\n\n\u003cp\u003eWith each achievement, PinkPantheress continues to mesmerize and dominate, solidifying her status as a force to be reckoned with in the music industry. \u003c/p\u003e",
+                    "web_site_url": "https://www.pantheress.pink/",
+                    "instagram_url": "https://www.instagram.com/pinkpantheress/?hl=en",
+                    "facebook_url": null,
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCufuq24Cef6-CdmEiZmXTBg",
+                    "spotify_artist_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t?si=rUkjC8nhR5S9z-RAiSjJIw\u0026dl_branch=1\u0026nd=1\u0026dlsi=97fd4dd93ea14431",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16522,
+                            "start": "2026-08-08T20:45:00.000-07:00",
+                            "end": "2026-08-08T21:45:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "PinkPantheress"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16535,
+            "festival_id": 157,
+            "name": "Death Cab for Cutie",
+            "category": "music",
+            "start": "2026-08-09T12:40:00.000-07:00",
+            "end": "2026-08-09T13:30:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Death Cab for Cutie",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49048/festivalartist-19879-artist_image-407ae652-11a3-485a-b204-61e309580196.jpg",
+                    "id": 19879,
+                    "bio": "\u003cp\u003eFormed in Bellingham, WA in 1997, Death Cab for Cutie almost immediately entered the ranks of the era’s definitive bands, fueled in large part by the remarkable power of co-founder, vocalist, guitarist, and lead songwriter Benjamin Gibbard’s complex, often bittersweet songcraft. The band made their worldwide popular breakthrough with 2003’s RIAA Platinum-certified Transatlanticism, later named by NPR as one of “The Decade's 50 Most Important Recordings.” Plans, their 2005 Atlantic Records debut release, saw Death Cab for Cutie ascending to even greater heights, earning RIAA platinum certification and a GRAMMY® Award nomination for “Best Alternative Album” while spawning the chart-topping singles, “Soul Meets Body” and “I Will Follow You into the Dark,” the latter of which was honored with a GRAMMY® nod for “Best Pop Performance By Duo Or Group With Vocals.” Their following albums – including Narrow Stairs (2008), The Open Door (2009), Codes and Keys (2011), and Kintsugi (2015) – all received various GRAMMY® Award nominations, bringing their total career nominations to eight overall.\u003c/p\u003e\n\n\u003cp\u003eDeath Cab for Cutie’s ninth studio album Thank You for Today was released in 2018. That album saw the band entering its second decade by both expanding and refining its signature sound, with highlights including lead single, “Gold Rush,” which reached #1 on Billboard’s “Adult Alternative Songs” chart.\u003c/p\u003e\n\n\u003cp\u003eThe band continued to affirm their lasting artistic legacy with a wide range of creative activity in the years that followed, including diverse collaborations such as Chance the Rapper’s 2019 album track, “Do You Remember (ft. Death Cab for Cutie),” and Tycho \u0026amp; Gibbard’s acclaimed 2021 single, “Only Love.”\u003c/p\u003e\n\n\u003cp\u003eDecember 2020 saw Death Cab for Cutie release The Georgia EP, initially offered as a 24-hour Bandcamp exclusive in advance of the crucial Georgia runoff elections that ultimately turned the state blue and secured Democratic control of the US Senate. The five-song project – which features covers of iconic artists from the great state of Georgia – raised over $100K for Fair Fight Action, the national voting rights organization founded by Stacy Abrams.\u003c/p\u003e\n\n\u003cp\u003e In February 2022, Gibbard conceived, curated, and executive produced Ocean Child: Songs of Yoko Ono, an acclaimed tribute to the groundbreaking singer, songwriter, multimedia artist, and activist released in celebration of her 89th birthday. The collection – which included Death Cab for Cutie’s own cover of “Waiting For The Sunrise” – also featured contributions from a stunning range of diverse artists, including David Byrne, Japanese Breakfast, The Flaming Lips, and Sharon Van Etten. Ocean Child earned worldwide critical acclaim spanning The New York Times, Rolling Stone, NPR, The Guardian and more.\u003c/p\u003e\n\n\u003cp\u003e Death Cab for Cutie’s 10th studio album Asphalt Meado\u003c/p\u003e",
+                    "web_site_url": "https://www.deathcabforcutie.com/",
+                    "instagram_url": "https://www.instagram.com/deathcabforcutie/",
+                    "facebook_url": "https://www.facebook.com/deathcabforcutie",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16535,
+                            "start": "2026-08-09T12:40:00.000-07:00",
+                            "end": "2026-08-09T13:30:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Death Cab for Cutie"
+                        },
+                        {
+                            "id": 16529,
+                            "start": "2026-08-09T20:25:00.000-07:00",
+                            "end": "2026-08-09T21:40:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Death Cab for Cutie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16512,
+            "festival_id": 157,
+            "name": "Balu Brigada",
+            "category": "music",
+            "start": "2026-08-09T14:25:00.000-07:00",
+            "end": "2026-08-09T15:15:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Balu Brigada",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49039/festivalartist-19911-artist_image-9604d85f-e506-432c-8f27-0f0b3b24ea4c.jpg",
+                    "id": 19911,
+                    "bio": "\u003cp\u003eThe Auckland, NZ-born duo of brothers, co-vocalists, co-writers, and co-producers Henry and Pierre Beasley. Balu Brigada craft multi-dimensional alternative pop layered with levels of lush live instrumentation, cinematic soundscapes, and festival-ready hooks.\u003c/p\u003e\n\n\u003cp\u003e Their debut Album, 'Portal' is a sweeping, emotional, and sonically adventurous collection of songs, 'a realization of what Balu Brigada is and what it wants to be' finding the brothers pushing their boundaries and cementing their place as one of the most vital new voices in alternative pop.\u003c/p\u003e",
+                    "web_site_url": "https://www.balu-brigada.com",
+                    "instagram_url": "https://instagram.com/balubrigada",
+                    "facebook_url": "https://facebook.com/balubrigada",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCkeVf1arDfnoQNYRZDVNDJA",
+                    "spotify_artist_url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16512,
+                            "start": "2026-08-09T14:25:00.000-07:00",
+                            "end": "2026-08-09T15:15:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Balu Brigada"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16533,
+            "festival_id": 157,
+            "name": "Momma",
+            "category": "music",
+            "start": "2026-08-09T15:00:00.000-07:00",
+            "end": "2026-08-09T15:45:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Momma",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49077/festivalartist-19918-artist_image-8161578a-6d52-4129-8160-c71b9be847f8.jpg",
+                    "id": 19918,
+                    "bio": "\u003cp\u003eMomma is the musical project of Allegra Weingarten and Etta Friedman. After moving to New York from Los Angeles, the two brought on bassist and producer Aron Kobayashi Ritch, and drummer Preston Fulks, to flesh out their sound. Produced by Kobayashi Ritch, Momma’s new album, Welcome to My Blue Sky, lays bare all of the precious and all of the ugly experiences of falling in and out of love, and the art of keeping secrets. Welcome to My Blue Sky comes out April 4th, 2025.\u003c/p\u003e\n\n\u003cp\u003e Sincerely,\u003c/p\u003e\n\n\u003cp\u003eMomma\u003c/p\u003e",
+                    "web_site_url": "https://www.mommaband.com/",
+                    "instagram_url": "https://www.instagram.com/momma.band/",
+                    "facebook_url": "https://www.facebook.com/mommaband",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e?si=Xlks-MrsQ-etjk23yXRAJg",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16533,
+                            "start": "2026-08-09T15:00:00.000-07:00",
+                            "end": "2026-08-09T15:45:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Momma"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16568,
+            "festival_id": 157,
+            "name": "Night Tapes",
+            "category": "music",
+            "start": "2026-08-09T16:30:00.000-07:00",
+            "end": "2026-08-09T17:10:00.000-07:00",
+            "stage": "Panhandle",
+            "artists": [
+                {
+                    "name": "Night Tapes",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49079/festivalartist-19931-artist_image-f6c16766-515d-4a15-a721-f6abda4e13ff.jpg",
+                    "id": 19931,
+                    "bio": "\u003cp\u003eNight Tapes’ debut album portals//polarities is a deeply immersive, genre-blurring journey shaped by place and emotion. Created by London trio Iiris Vesik, Max Doohan, and Sam Richards, the album weaves global field recordings—from Estonian swamps to Mexican mountains—into dreamy, electronic soundscapes. Originally recording quietly in a shared house, the group embraced their constraints, crafting music that became time capsules of their surroundings.\u003c/p\u003e\n\n\u003cp\u003eTheir process blends traditional instruments with laptop production, drawing from synth-pop, shoegaze, trip-hop, and ambient music. Songs often shift unpredictably, blurring the line between band and studio project. Much of the album was made on the road, in Airbnbs and hotels between gigs, emphasizing creativity within limitation. Their use of tapes and spontaneous sampling adds raw, human imperfections that digital methods lack. For Vesik, the album explores inner dualities and personal freedom, with emotional depth conveyed more through sound than lyrics. portals//polarities is a bold debut—personal, political, and vibrantly alive.\u003c/p\u003e\n\n\u003cp\u003eThe band’s previous releases have been supported by DIY, Clash, NME, Future Music, Gorilla vs Bear, BBC Radio 1, BBC 6 Music and many more.\u003c/p\u003e",
+                    "web_site_url": "https://nighttapesmusic.net",
+                    "instagram_url": "https://www.instagram.com/nighttapesmusic/",
+                    "facebook_url": "https://www.facebook.com/nighttapesband/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://www.amazon.com/music/player/artists/B07T3VQ9WF/night-tapes",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCioo1pJKTjeou1VBEXc_bPQ",
+                    "spotify_artist_url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU?si=uor3sKvaQSe-DaSUt_GeIA",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16568,
+                            "start": "2026-08-09T16:30:00.000-07:00",
+                            "end": "2026-08-09T17:10:00.000-07:00",
+                            "stage": "Panhandle",
+                            "name": "Night Tapes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16587,
+            "festival_id": 157,
+            "name": "Boys Noize",
+            "category": "music",
+            "start": "2026-08-09T16:45:00.000-07:00",
+            "end": "2026-08-09T18:20:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Boys Noize",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49043/festivalartist-19908-artist_image-8d0c93f0-5e27-4a20-b053-3ebcac260f7f.jpg",
+                    "id": 19908,
+                    "bio": "\u003cp\u003eBOYS NOIZE (Alex Ridha) builds worlds, then builds bridges between them. Propelled by an infatuation with sonic invention and a prescience for culture, the German-Iraqi artist, DJ and producer has developed a peerless practice that is deeply informed by electronic music history but always pushes beyond convention.\u003c/p\u003e\n\n\u003cp\u003eAs an international headliner and A-list producer BOYS NOIZE embodies the transformation and expansion of 21st century techno, house and electro into a massive global phenomenon. Yet as a Berliner and lifelong DJ, he remains dedicated to the underground, tearing through subcultural scenes large and small as he experiments with aliases across genres.\u003c/p\u003e\n\n\u003cp\u003eDespite his uncompromising taste, BOYS NOIZE is far from a gatekeeper. Instead, he opens portals for others to enter his world, through his productions for A$AP ROCKY, LADY GAGA, and FRANK OCEAN, his film score work with TRENT REZNOR for CHALLENGERS and OLVER STONE'S SNOWDEN, his collaborations with SKRILLEX, KELSEY LU, PUSSY RIOT, SHYGIRL, RICO NASTY, VTSS, TOMMY CASH and CHILLY GONZALES, his EP and capsule collection with the late VIRGIL ABLOH, his remixes for DAFT PUNK, AG COOK, YEAH YEAH YEAHS, SOPHIE and DEPECHE MODE.\u003c/p\u003e\n\n\u003cp\u003eAs temperatures and tempos rise, so does BOYS NOIZE's output. He's been on a tear of 140+ bpm techno tracks and remixes, including festival rippers FCKVRND, STEADY PACE with VTSS, FINE DAY ANTHEM with SKRILLEX, and three new singles ready to blast off in 2025. Still, BOYS NOIZE remains fiercely independent, intimately involved in supporting the culture that brought him his success. After many years self-releasing on BOYSNOIZE RECORDS, Ridha is launching an expansive concept label in 2025 that reflects new modes of community and artistic circulation. ONES and ZEROS will release music and physical objects, including jewelry designed with ALLIGATOR JESUS and ERIC TIMOTHY CARLSON, and is building a pluralistic network of shared taste connecting international local scenes.\u003c/p\u003e\n\n\u003cp\u003eLike the dialogue between DJ and dancefloor, Ridha's practice is ultimately one of active creation and conversation across boundaries. BOYS NOIZE is many things -- legendary electro DJ, GRAMMY-winning pop producer, breakout film composer, leading figure of the new techno zeitgeist -- but no one of them personifies him. Instead, BOYS NOIZE can be found in the connections between and beyond, a network of energy, principles, and taste always reaching towards what is to come.\u003c/p\u003e",
+                    "web_site_url": "https://www.boysnoize.com/",
+                    "instagram_url": "https://www.instagram.com/boysnoize/",
+                    "facebook_url": "https://www.facebook.com/boysnoize/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16587,
+                            "start": "2026-08-09T16:45:00.000-07:00",
+                            "end": "2026-08-09T18:20:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Boys Noize"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16531,
+            "festival_id": 157,
+            "name": "The Temper Trap",
+            "category": "music",
+            "start": "2026-08-09T17:35:00.000-07:00",
+            "end": "2026-08-09T18:25:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "The Temper Trap",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49096/festivalartist-19951-artist_image-3250076d-3e37-4bc5-8ea3-cfc94de9be70.jpg",
+                    "id": 19951,
+                    "bio": "\u003cp\u003eRenowned Australian band The Temper Trap have made their long-awaited return in 2025 with their first new music in nine years. Since the release of their seminal debut Conditions in 2009, the band’s sound has transcended generations, with its cinematic, emotionally-charged songwriting leaving a lasting imprint on global music culture.\u003c/p\u003e\n\n\u003cp\u003eIn recent years, breakout anthem Sweet Disposition has experienced a powerful resurgence, reimagined by a new wave of electronic artists including John Summit, Lost Frequencies, and ARTBAT, reintroducing the track to dancefloors and streaming charts worldwide. Meanwhile, the beloved single Love Lost found a renewed spotlight when it appeared on Mac Miller’s posthumously re-released Faces mixtape in 2023, connecting with an entirely new audience. From a surprise performance with John Summit at Coachella 2024 to widespread club plays across Ibiza in the 2025 summer season, The Temper Trap's music has remained a fixture in the cultural consciousness - timeless, yet constantly evolving.\u003c/p\u003e\n\n\u003cp\u003eWith the release of their new singles “Lucky Dimes”, “Giving Up Air” and “Into the Wild”, the band is embarking on an exciting new chapter - one that promises to resonate as deeply as the songs that first captivated the world more than a decade ago.\u003c/p\u003e",
+                    "web_site_url": "https://thetempertrap.com",
+                    "instagram_url": "https://www.instagram.com/thetempertrap/?hl=en",
+                    "facebook_url": "https://www.facebook.com/tempertrap/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B00GA779II/the-temper-trap",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UC-1k7y80RAIK_JlXP8WlDDw",
+                    "spotify_artist_url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16531,
+                            "start": "2026-08-09T17:35:00.000-07:00",
+                            "end": "2026-08-09T18:25:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "The Temper Trap"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16586,
+            "festival_id": 157,
+            "name": "Miss Monique",
+            "category": "music",
+            "start": "2026-08-09T18:20:00.000-07:00",
+            "end": "2026-08-09T19:55:00.000-07:00",
+            "stage": "SOMA",
+            "artists": [
+                {
+                    "name": "Miss Monique",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49118/festivalartist-19914-artist_image-392db0ee-801b-4bc0-b2fa-3c047464f2cd.jpg",
+                    "id": 19914,
+                    "bio": "\u003cp\u003eMiss Monique is miss unique.\u003c/p\u003e\n\n\u003cp\u003eA Ukrainian DJ, producer and label owner who is a YouTube, clubland and streaming sensation.\u003c/p\u003e\n\n\u003cp\u003eAn artist whose metrics across Spotify, YouTube and Instagram are in the millions and move too fast to list specifically in a traditional artist biography.\u003c/p\u003e\n\n\u003cp\u003eA trailblazing musician in the progressive/melodic space with a huge online and offline following hooked on her exquisitely crafted and produced livestreams, and festival-stopping live shows.\u003c/p\u003e\n\n\u003cp\u003eA respected talent incubator in her own right with her own Siona Records label and parties (two sell-out ADE events).. At the start of 2025, she was declared an Artist To Watch by Amazon Music, and delivered her first Ibiza residency – taking over 13 Thursdays at Hi Ibiza with a powerful selection of international headline guests. Following an exceptional summer of shows, she debuted in DJ Mag's Top 100 DJs poll at #75 and was voted the best Progressive/Melodic House artist of 2025 at the DJ Awards.\u003c/p\u003e\n\n\u003cp\u003eAn international performing phenomenon, drawing huge audiences from Argentina to Canada (her set at Montreal’s Biosphere Museum for the Cercle platform is a stand-out), to Ibiza (five additional shows with David Guetta at UNVRS) to the US (Coachella, Ultra Miami and EDC Vegas). Summer '25 saw her second consecutive year on Tomorrowland's Mainstage as well as a landmark performance at their Freedom Stage; she has performed to huge crowds at Kappa Futur, Awakenings, Mysteryland and Sziget.\u003c/p\u003e\n\n\u003cp\u003eAll of this energy best captured in her debut Essential Mix for Pete Tong on BBC Radio 1. \"That was an honour!” she says. And Miss Monique is a breakthrough recording artist. Building on the success of her 2022 remix of Sied van Riel's Rush (the most-sold progressive house track on Beatport that year), she remixed Sorry by BLOND:ISH featuring Madonna, I Don’t Wanna Wait for David Guetta and One Republic, and for Guetta and Sia with Beautiful People. And she’s released a series of big singles of her own: Subterranean with Avira and Luna (for Armada), Nomacita with Genesi \u0026amp; Carl Bee (Aeterna) which reached #1 in Beatport's Melodic House \u0026amp; Techno chart, #2 across all of Beatport's other charts and was in Beatport's top 10 best-selling Melodic House \u0026amp; Techno tracks of 2025; Look At You (Interstellar / Insomniac Records), Magnet and Bloom At Night (Tomorrowland Music) and City Boy (Drumcode). At the end of 2025, she released Rain with Poppy Baskcomb (tsz) and Rollin' / Lost On A Dancefloor with Glowal (Siona Records).\u003c/p\u003e\n\n\u003cp\u003eThis, then, is Miss Monique’s kaleidoscopic world. It’s a space where her signature green hair (an iconic look mirrored by her fans) is far from the only colour in the creative palette of an effffervescent, positivity-promoting artist who prioritises and promotes good mental and physical health. Those ideas are also at the heart, sonically and metaphorically, of her epically uplifting, powerfully percussive track, Veselka.\u003c/p\u003e\n\n\u003cp\u003eLong teased as the opener in her sets, the instrumental was finally released on Siona Records in 2024. The translation of that Ukrainian word?\u003c/p\u003e\n\n\u003cp\u003eRainbow.\u003c/p\u003e\n\n\u003cp\u003e\"Veselka is the last track which was finished in my hometown Kyiv before I had to leave my country due to the war,\" explains Miss Monique, real name Olesia Arkusha. \"This track has pure energy, good vibes and is imprinted in my memory like a bright moment of peaceful times.” But beyond the facts, stats and hits, she’s something more. Born in the small town of Kirovograd and raised in Kyiv, the Ukrainian capital where she cut her teeth as a teenage DJ, Lisbon-based Miss Monique is a reluctant artist-in-exile. She's using her music and her performances to spread messages of peace, unity, solidarity and joyful defiance. Despite the length of time it has been since she was forced to leave her war-torn country, she’s proud that, wherever she travels in the world, her shows are as much about flags in the air as hands in the air.\u003c/p\u003e\n\n\u003cp\u003e“This kind of support, it's incredible,” she says appreciatively of the fans, of multiple nationalities, who wave the Ukrainian flag at her gigs. “But at the beginning, it was very hard. You don't know how to control your feelings. I remember when the first time I saw the flag, I ran away for a few seconds because it was very painful. Now I'm more controlled in my emotions. But I'm very appreciative of everyone doing this, because that means that people still remember, even after all this time. They're still trying to help us. The main thing is that they don't forget, and they show that every time they come.”\u003c/p\u003e\n\n\u003cp\u003eMiss Monique’s emergence as a global talent came during the pandemic. She was already a big draw at home in Ukraine and in neighbouring countries, her profile hard-earned after a decade playing out and, way ahead of her peers, honing her YouTube artistry. But during the lockdowns her livestreamed sets from her home studio went viral. They were characterised by high production values, with Miss Monique’s natural, unforced decks-appeal radiating good vibes at a time when the world needed them most. Then, as restrictions eased, her profile rocketed as online fans around the world were finally able to see her live – by her estimation, in 2022 she and her close-knit team took some 200 flights to over 100 events.\u003c/p\u003e\n\n\u003cp\u003eThere, again, it’s important for her to be an ambassador not just for her country but for a better way of pursuing both artistry and fan satisfaction. For that reason, “I take care of my body as much as I can,” Miss Monique says. “I want to be fresh, young and healthy as long as possible.”\u003c/p\u003e\n\n\u003cp\u003eAnd, of course, that clean-living and progressive mental attitude helps with a productivity that is as boundless as it is impressive. A key focus is to expand the activities of Siona Records in promoting the new artists she has discovered and are supporting. She’ll be touring wherever the music takes her: from main stage performances at Tomorrowland and the Carl Cox stage at Ultra Miami. Music production is evolving quickly, a constant flow of new music is being released: \"I’m always testing my new music in the clubs, because it's very important to me to first of all see how it's working, then I do some more edits. Only then do I release the music.” Somehow, amidst her performing schedule, she vows to “work harder on the production side of my own music. More collaborations with singers, some bigger artists…”\u003c/p\u003e\n\n\u003cp\u003eMiss Monique, then, is excited for the opportunities ahead. It’s a role that’s fired by feelings that, compared to most of her peers are, inarguably, more meaningful, more important and more powerful. “If I have a party in two hours, but I’m reading in the news that Kyiv was just bombed again, I can sit and cry. But at the same time, I know that I have to turn off my feelings, and still bring the people happiness. Because I always try to make people happy.”\u003c/p\u003e",
+                    "web_site_url": "https://missmoniquemusic.com",
+                    "instagram_url": "https://www.instagram.com/djmissmonique/",
+                    "facebook_url": "https://www.facebook.com/MissMoniqueUA/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.co.uk/artists/B004A10RAS",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UClIIy-aQBXRi1OHupBcrjJw",
+                    "spotify_artist_url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16586,
+                            "start": "2026-08-09T18:20:00.000-07:00",
+                            "end": "2026-08-09T19:55:00.000-07:00",
+                            "stage": "SOMA",
+                            "name": "Miss Monique"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16509,
+            "festival_id": 157,
+            "name": "Empire Of The Sun",
+            "category": "music",
+            "start": "2026-08-09T18:45:00.000-07:00",
+            "end": "2026-08-09T19:45:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "Empire Of The Sun",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49131/festivalartist-19875-artist_image-150c5167-f65b-445e-985d-dbc2f0b02901.jpg",
+                    "id": 19875,
+                    "bio": "\u003cp\u003eEmpire of the Sun is one of Australia’s most visionary music projects, created by Luke Steele and Nick Littlemore. On stage, Luke Steele brings the project’s kaleidoscopic world to life—renowned for his theatrical costumes, immersive visuals, and a catalog of festival-defining hits, he transforms every performance into a dreamlike collision of music, art, and spectacle.\u003c/p\u003e\n\n\u003cp\u003eSince their landmark album debut Walking On A Dream—featuring global anthems “Walking On A Dream” and “We Are The People”—Empire of the Sun has captivated millions with its euphoric fusion of electronic pop and surreal performance. Follow-up albums Ice on the Dune and Two Vines delivered fan favorites like “Alive,” “DNA,” “High and Low,” and “Way To Go,” and after an 8-year hiatus, 2024’s Ask That God opened a bold new chapter, with singles, “Changes”, “Music On The Radio”, “Cherry Blossom” and others, pushing their celestial sound into uncharted territory.\u003c/p\u003e\n\n\u003cp\u003eWith more than 5.5 million albums sold, 7.6 billion streams, eight ARIA Awards, and two APRA Awards, Empire of the Sun stands as a global cultural force. Their debut album Walking on a Dream achieved triple platinum in Australia, and platinum and gold certification in both the UK and the USA, cementing their place as one of the most successful Australian acts of the modern era.\u003c/p\u003e\n\n\u003cp\u003eIn 2024, Empire of the Sun returns, bringing their 4th album, Ask That God, to the world stage with sold-out headline shows across North America in Los Angeles, New York, Seattle, Denver, and Mexico City, followed by a run of European dates spanning all corners of the continent, from Slovakia to Bucharest to Istanbul, along with a triumphant night at London’s iconic Old Royal Naval College. In addition, the band appears at major festivals such as Rock en Seine, Zurich Open Air, and Summer Well, as well as delivering a landmark Cercle performance and high-profile sets at Lollapalooza Brazil, Estéreo Picnic, Electric Avenue, and SimiFest—underscoring their reputation as one of the most spectacular and transportive live shows today.\u003c/p\u003e\n\n\u003cp\u003eEmpire forges on, reaching Empyreans across the globe.\u003c/p\u003e",
+                    "web_site_url": "https://empireofthesun.co/",
+                    "instagram_url": "https://www.instagram.com/empireofthesunsound?igsh=a3N1NXJpbzkzdjQ3",
+                    "facebook_url": "https://www.facebook.com/empireofthesun/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B001Q1RXGQ/empire-of-the-sun",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": "https://www.youtube.com/channel/UCyacMWc-JhzX6iq2PCF-4jw",
+                    "spotify_artist_url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c?si=Ye0vKIiWRlOyHWwZM8B8uA",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16509,
+                            "start": "2026-08-09T18:45:00.000-07:00",
+                            "end": "2026-08-09T19:45:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "Empire Of The Sun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16530,
+            "festival_id": 157,
+            "name": "Not for Radio",
+            "category": "music",
+            "start": "2026-08-09T19:05:00.000-07:00",
+            "end": "2026-08-09T19:55:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Not for Radio",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49080/festivalartist-19885-artist_image-84edf0af-79af-4d0e-9af8-f2e6b2baa24e.jpg",
+                    "id": 19885,
+                    "bio": null,
+                    "web_site_url": null,
+                    "instagram_url": "https://www.instagram.com/notforradio/?hl=en",
+                    "facebook_url": "https://www.facebook.com/people/Not-for-Radio/61580957374986/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT?si=qIEzgAG-Sjq3DjQceWQ1CA",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16530,
+                            "start": "2026-08-09T19:05:00.000-07:00",
+                            "end": "2026-08-09T19:55:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Not for Radio"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16508,
+            "festival_id": 157,
+            "name": "RÜFÜS DU SOL",
+            "category": "music",
+            "start": "2026-08-09T20:25:00.000-07:00",
+            "end": "2026-08-09T21:55:00.000-07:00",
+            "stage": "Lands End",
+            "artists": [
+                {
+                    "name": "RÜFÜS DU SOL",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49087/festivalartist-19868-artist_image-e2373cf4-bf5a-489b-b2d7-dcad43d989d0.jpg",
+                    "id": 19868,
+                    "bio": null,
+                    "web_site_url": "https://www.rufusdusol.com/home",
+                    "instagram_url": "https://www.instagram.com/rufusdusol/?hl=en",
+                    "facebook_url": "https://www.facebook.com/rufusdusol/",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "https://music.amazon.com/artists/B00I4WFF9W/r%C3%BCf%C3%BCs-du-sol",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj?si=Zs9019x_RSuhKLFA-Tg8TQ",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16508,
+                            "start": "2026-08-09T20:25:00.000-07:00",
+                            "end": "2026-08-09T21:55:00.000-07:00",
+                            "stage": "Lands End",
+                            "name": "RÜFÜS DU SOL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16529,
+            "festival_id": 157,
+            "name": "Death Cab for Cutie",
+            "category": "music",
+            "start": "2026-08-09T20:25:00.000-07:00",
+            "end": "2026-08-09T21:40:00.000-07:00",
+            "stage": "Sutro",
+            "artists": [
+                {
+                    "name": "Death Cab for Cutie",
+                    "image": "https://festuff-production.s3.amazonaws.com/uploads/image/attachment/49048/festivalartist-19879-artist_image-407ae652-11a3-485a-b204-61e309580196.jpg",
+                    "id": 19879,
+                    "bio": "\u003cp\u003eFormed in Bellingham, WA in 1997, Death Cab for Cutie almost immediately entered the ranks of the era’s definitive bands, fueled in large part by the remarkable power of co-founder, vocalist, guitarist, and lead songwriter Benjamin Gibbard’s complex, often bittersweet songcraft. The band made their worldwide popular breakthrough with 2003’s RIAA Platinum-certified Transatlanticism, later named by NPR as one of “The Decade's 50 Most Important Recordings.” Plans, their 2005 Atlantic Records debut release, saw Death Cab for Cutie ascending to even greater heights, earning RIAA platinum certification and a GRAMMY® Award nomination for “Best Alternative Album” while spawning the chart-topping singles, “Soul Meets Body” and “I Will Follow You into the Dark,” the latter of which was honored with a GRAMMY® nod for “Best Pop Performance By Duo Or Group With Vocals.” Their following albums – including Narrow Stairs (2008), The Open Door (2009), Codes and Keys (2011), and Kintsugi (2015) – all received various GRAMMY® Award nominations, bringing their total career nominations to eight overall.\u003c/p\u003e\n\n\u003cp\u003eDeath Cab for Cutie’s ninth studio album Thank You for Today was released in 2018. That album saw the band entering its second decade by both expanding and refining its signature sound, with highlights including lead single, “Gold Rush,” which reached #1 on Billboard’s “Adult Alternative Songs” chart.\u003c/p\u003e\n\n\u003cp\u003eThe band continued to affirm their lasting artistic legacy with a wide range of creative activity in the years that followed, including diverse collaborations such as Chance the Rapper’s 2019 album track, “Do You Remember (ft. Death Cab for Cutie),” and Tycho \u0026amp; Gibbard’s acclaimed 2021 single, “Only Love.”\u003c/p\u003e\n\n\u003cp\u003eDecember 2020 saw Death Cab for Cutie release The Georgia EP, initially offered as a 24-hour Bandcamp exclusive in advance of the crucial Georgia runoff elections that ultimately turned the state blue and secured Democratic control of the US Senate. The five-song project – which features covers of iconic artists from the great state of Georgia – raised over $100K for Fair Fight Action, the national voting rights organization founded by Stacy Abrams.\u003c/p\u003e\n\n\u003cp\u003e In February 2022, Gibbard conceived, curated, and executive produced Ocean Child: Songs of Yoko Ono, an acclaimed tribute to the groundbreaking singer, songwriter, multimedia artist, and activist released in celebration of her 89th birthday. The collection – which included Death Cab for Cutie’s own cover of “Waiting For The Sunrise” – also featured contributions from a stunning range of diverse artists, including David Byrne, Japanese Breakfast, The Flaming Lips, and Sharon Van Etten. Ocean Child earned worldwide critical acclaim spanning The New York Times, Rolling Stone, NPR, The Guardian and more.\u003c/p\u003e\n\n\u003cp\u003e Death Cab for Cutie’s 10th studio album Asphalt Meado\u003c/p\u003e",
+                    "web_site_url": "https://www.deathcabforcutie.com/",
+                    "instagram_url": "https://www.instagram.com/deathcabforcutie/",
+                    "facebook_url": "https://www.facebook.com/deathcabforcutie",
+                    "twitter_url": null,
+                    "tiktok_url": "",
+                    "bluesky_url": "",
+                    "threads_url": "",
+                    "amazon_url": "",
+                    "soundcloud_profile_url": null,
+                    "youtube_channel_url": null,
+                    "spotify_artist_url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx",
+                    "music_embed": null,
+                    "video_embed": null,
+                    "category": "music",
+                    "performances": [
+                        {
+                            "id": 16535,
+                            "start": "2026-08-09T12:40:00.000-07:00",
+                            "end": "2026-08-09T13:30:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Death Cab for Cutie"
+                        },
+                        {
+                            "id": 16529,
+                            "start": "2026-08-09T20:25:00.000-07:00",
+                            "end": "2026-08-09T21:40:00.000-07:00",
+                            "stage": "Sutro",
+                            "name": "Death Cab for Cutie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
